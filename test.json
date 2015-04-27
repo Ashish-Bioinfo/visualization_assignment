@@ -1,0 +1,11076 @@
+  {
+    "name": "Bacilli ", 
+    "children": [
+      {
+        "name": "91061", 
+        "children": [
+          {
+            "name": "1239", 
+            "size": 2
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Proteobacteria ", 
+    "children": [
+      {
+        "name": "1224", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 3
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillales ", 
+    "children": [
+      {
+        "name": "186826", 
+        "children": [
+          {
+            "name": "91061", 
+            "size": 4
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Actinobacteria ", 
+    "children": [
+      {
+        "name": "1760", 
+        "children": [
+          {
+            "name": "201174", 
+            "size": 5
+          }
+        ]
+      }, 
+      {
+        "name": "201174", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 6
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Alphaproteobacteria ", 
+    "children": [
+      {
+        "name": "28211", 
+        "children": [
+          {
+            "name": "1224", 
+            "size": 7
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcaceae ", 
+    "children": [
+      {
+        "name": "1300", 
+        "children": [
+          {
+            "name": "186826", 
+            "size": 8
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus ", 
+    "children": [
+      {
+        "name": "1301", 
+        "children": [
+          {
+            "name": "1300", 
+            "size": 9
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteroidetes/Chlorobi group ", 
+    "children": [
+      {
+        "name": "68336", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 10
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteroidetes ", 
+    "children": [
+      {
+        "name": "976", 
+        "children": [
+          {
+            "name": "68336", 
+            "size": 11
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Actinobacteridae ", 
+    "children": [
+      {
+        "name": "85003", 
+        "children": [
+          {
+            "name": "1760", 
+            "size": 12
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Actinomycetales ", 
+    "children": [
+      {
+        "name": "2037", 
+        "children": [
+          {
+            "name": "85003", 
+            "size": 13
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillaceae ", 
+    "children": [
+      {
+        "name": "33958", 
+        "children": [
+          {
+            "name": "186826", 
+            "size": 14
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillales ", 
+    "children": [
+      {
+        "name": "1385", 
+        "children": [
+          {
+            "name": "91061", 
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Betaproteobacteria ", 
+    "children": [
+      {
+        "name": "28216", 
+        "children": [
+          {
+            "name": "1224", 
+            "size": 16
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus ", 
+    "children": [
+      {
+        "name": "1578", 
+        "children": [
+          {
+            "name": "33958", 
+            "size": 17
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gammaproteobacteria ", 
+    "children": [
+      {
+        "name": "1236", 
+        "children": [
+          {
+            "name": "1224", 
+            "size": 18
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Cyanobacteria ", 
+    "children": [
+      {
+        "name": "1117", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 19
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Staphylococcaceae ", 
+    "children": [
+      {
+        "name": "90964", 
+        "children": [
+          {
+            "name": "1385", 
+            "size": 20
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Micrococcineae ", 
+    "children": [
+      {
+        "name": "85006", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 21
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Staphylococcus ", 
+    "children": [
+      {
+        "name": "1279", 
+        "children": [
+          {
+            "name": "90964", 
+            "size": 22
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhizobiales ", 
+    "children": [
+      {
+        "name": "356", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 23
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus delbrueckii ", 
+    "children": [
+      {
+        "name": "1584", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 24
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonadales ", 
+    "children": [
+      {
+        "name": "72274", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 25
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Clostridia ", 
+    "children": [
+      {
+        "name": "186801", 
+        "children": [
+          {
+            "name": "1239", 
+            "size": 26
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corynebacterineae ", 
+    "children": [
+      {
+        "name": "85007", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 27
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Clostridiales ", 
+    "children": [
+      {
+        "name": "186802", 
+        "children": [
+          {
+            "name": "186801", 
+            "size": 28
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "48504", 
+        "children": [
+          {
+            "name": "1117", 
+            "size": 29
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured cyanobacterium ", 
+    "children": [
+      {
+        "name": "1211", 
+        "children": [
+          {
+            "name": "48504", 
+            "size": 30
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Moraxellaceae ", 
+    "children": [
+      {
+        "name": "468", 
+        "children": [
+          {
+            "name": "72274", 
+            "size": 31
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostocaceae ", 
+    "children": [
+      {
+        "name": "81850", 
+        "children": [
+          {
+            "name": "186826", 
+            "size": 32
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Flavobacteriia ", 
+    "children": [
+      {
+        "name": "117743", 
+        "children": [
+          {
+            "name": "976", 
+            "size": 33
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Burkholderiales ", 
+    "children": [
+      {
+        "name": "80840", 
+        "children": [
+          {
+            "name": "28216", 
+            "size": 34
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Micrococcaceae ", 
+    "children": [
+      {
+        "name": "1268", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 35
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Flavobacteriales ", 
+    "children": [
+      {
+        "name": "200644", 
+        "children": [
+          {
+            "name": "117743", 
+            "size": 36
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Deinococcus-Thermus", 
+    "children": [
+      {
+        "name": "1297", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 37
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Carnobacteriaceae ", 
+    "children": [
+      {
+        "name": "186828", 
+        "children": [
+          {
+            "name": "186826", 
+            "size": 38
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Flavobacteriaceae ", 
+    "children": [
+      {
+        "name": "49546", 
+        "children": [
+          {
+            "name": "200644", 
+            "size": 39
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Deinococci ", 
+    "children": [
+      {
+        "name": "188787", 
+        "children": [
+          {
+            "name": "1297", 
+            "size": 40
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nocardiaceae ", 
+    "children": [
+      {
+        "name": "85025", 
+        "children": [
+          {
+            "name": "85007", 
+            "size": 41
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodococcus ", 
+    "children": [
+      {
+        "name": "1827", 
+        "children": [
+          {
+            "name": "85025", 
+            "size": 42
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Methylobacteriaceae ", 
+    "children": [
+      {
+        "name": "119045", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 43
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostoc ", 
+    "children": [
+      {
+        "name": "1243", 
+        "children": [
+          {
+            "name": "81850", 
+            "size": 44
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Carnobacterium ", 
+    "children": [
+      {
+        "name": "2747", 
+        "children": [
+          {
+            "name": "186828", 
+            "size": 45
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteroidia ", 
+    "children": [
+      {
+        "name": "200643", 
+        "children": [
+          {
+            "name": "976", 
+            "size": 46
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteroidales ", 
+    "children": [
+      {
+        "name": "171549", 
+        "children": [
+          {
+            "name": "200643", 
+            "size": 47
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Fusobacteria ", 
+    "children": [
+      {
+        "name": "32066", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 48
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Methylobacterium ", 
+    "children": [
+      {
+        "name": "407", 
+        "children": [
+          {
+            "name": "119045", 
+            "size": 49
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Planctomycetes ", 
+    "children": [
+      {
+        "name": "203682", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 50
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonadaceae ", 
+    "children": [
+      {
+        "name": "135621", 
+        "children": [
+          {
+            "name": "72274", 
+            "size": 51
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillaceae ", 
+    "children": [
+      {
+        "name": "186817", 
+        "children": [
+          {
+            "name": "1385", 
+            "size": 52
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Planctomycetia ", 
+    "children": [
+      {
+        "name": "203683", 
+        "children": [
+          {
+            "name": "203682", 
+            "size": 53
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Aerococcaceae ", 
+    "children": [
+      {
+        "name": "186827", 
+        "children": [
+          {
+            "name": "186826", 
+            "size": 54
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas ", 
+    "children": [
+      {
+        "name": "286", 
+        "children": [
+          {
+            "name": "135621", 
+            "size": 55
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Aerococcus ", 
+    "children": [
+      {
+        "name": "1375", 
+        "children": [
+          {
+            "name": "186827", 
+            "size": 56
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acinetobacter ", 
+    "children": [
+      {
+        "name": "469", 
+        "children": [
+          {
+            "name": "468", 
+            "size": 57
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Paenibacillaceae ", 
+    "children": [
+      {
+        "name": "186822", 
+        "children": [
+          {
+            "name": "1385", 
+            "size": 58
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Deinococcales ", 
+    "children": [
+      {
+        "name": "118964", 
+        "children": [
+          {
+            "name": "188787", 
+            "size": 59
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus ", 
+    "children": [
+      {
+        "name": "1386", 
+        "children": [
+          {
+            "name": "186817", 
+            "size": 60
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Planctomycetales ", 
+    "children": [
+      {
+        "name": "112", 
+        "children": [
+          {
+            "name": "203683", 
+            "size": 61
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Paenibacillus ", 
+    "children": [
+      {
+        "name": "44249", 
+        "children": [
+          {
+            "name": "186822", 
+            "size": 62
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhizobiaceae ", 
+    "children": [
+      {
+        "name": "82115", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 63
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bradyrhizobiaceae ", 
+    "children": [
+      {
+        "name": "41294", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 64
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Burkholderiaceae ", 
+    "children": [
+      {
+        "name": "119060", 
+        "children": [
+          {
+            "name": "80840", 
+            "size": 65
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chloroflexi ", 
+    "children": [
+      {
+        "name": "200795", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 66
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Psychrobacter ", 
+    "children": [
+      {
+        "name": "497", 
+        "children": [
+          {
+            "name": "468", 
+            "size": 67
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Clostridiaceae ", 
+    "children": [
+      {
+        "name": "31979", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 68
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Microbacteriaceae ", 
+    "children": [
+      {
+        "name": "85023", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 69
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphingomonadales ", 
+    "children": [
+      {
+        "name": "204457", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 70
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Micrococcus ", 
+    "children": [
+      {
+        "name": "1269", 
+        "children": [
+          {
+            "name": "1268", 
+            "size": 71
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Clostridium ", 
+    "children": [
+      {
+        "name": "1485", 
+        "children": [
+          {
+            "name": "31979", 
+            "size": 72
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "35766", 
+        "children": [
+          {
+            "name": "1760", 
+            "size": 73
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "delta/epsilon subdivisions ", 
+    "children": [
+      {
+        "name": "68525", 
+        "children": [
+          {
+            "name": "1224", 
+            "size": 74
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus casei group ", 
+    "children": [
+      {
+        "name": "655183", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 75
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured actinobacterium ", 
+    "children": [
+      {
+        "name": "152507", 
+        "children": [
+          {
+            "name": "35766", 
+            "size": 76
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corynebacteriaceae ", 
+    "children": [
+      {
+        "name": "1653", 
+        "children": [
+          {
+            "name": "85007", 
+            "size": 77
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus acidophilus ", 
+    "children": [
+      {
+        "name": "1579", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 78
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corynebacterium ", 
+    "children": [
+      {
+        "name": "1716", 
+        "children": [
+          {
+            "name": "1653", 
+            "size": 79
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Deltaproteobacteria ", 
+    "children": [
+      {
+        "name": "28221", 
+        "children": [
+          {
+            "name": "68525", 
+            "size": 80
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphingomonadaceae ", 
+    "children": [
+      {
+        "name": "41297", 
+        "children": [
+          {
+            "name": "204457", 
+            "size": 81
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Prevotellaceae ", 
+    "children": [
+      {
+        "name": "171552", 
+        "children": [
+          {
+            "name": "171549", 
+            "size": 82
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodospirillales ", 
+    "children": [
+      {
+        "name": "204441", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 83
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acetobacteraceae ", 
+    "children": [
+      {
+        "name": "433", 
+        "children": [
+          {
+            "name": "204441", 
+            "size": 84
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Fusobacteriales ", 
+    "children": [
+      {
+        "name": "203491", 
+        "children": [
+          {
+            "name": "203490", 
+            "size": 85
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Fusobacteriia ", 
+    "children": [
+      {
+        "name": "203490", 
+        "children": [
+          {
+            "name": "32066", 
+            "size": 86
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Negativicutes ", 
+    "children": [
+      {
+        "name": "909932", 
+        "children": [
+          {
+            "name": "1239", 
+            "size": 87
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Selenomonadales ", 
+    "children": [
+      {
+        "name": "909929", 
+        "children": [
+          {
+            "name": "909932", 
+            "size": 88
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Veillonellaceae ", 
+    "children": [
+      {
+        "name": "31977", 
+        "children": [
+          {
+            "name": "909929", 
+            "size": 89
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Cytophagales ", 
+    "children": [
+      {
+        "name": "768507", 
+        "children": [
+          {
+            "name": "768503", 
+            "size": 90
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Cytophagia ", 
+    "children": [
+      {
+        "name": "768503", 
+        "children": [
+          {
+            "name": "976", 
+            "size": 91
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodobacterales ", 
+    "children": [
+      {
+        "name": "204455", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 92
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactococcus ", 
+    "children": [
+      {
+        "name": "1357", 
+        "children": [
+          {
+            "name": "1300", 
+            "size": 93
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Propionibacterineae ", 
+    "children": [
+      {
+        "name": "85009", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 94
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodobacteraceae ", 
+    "children": [
+      {
+        "name": "31989", 
+        "children": [
+          {
+            "name": "204455", 
+            "size": 95
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Cytophagaceae ", 
+    "children": [
+      {
+        "name": "89373", 
+        "children": [
+          {
+            "name": "768507", 
+            "size": 96
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Ralstonia ", 
+    "children": [
+      {
+        "name": "48736", 
+        "children": [
+          {
+            "name": "119060", 
+            "size": 97
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bifidobacteriales ", 
+    "children": [
+      {
+        "name": "85004", 
+        "children": [
+          {
+            "name": "85003", 
+            "size": 98
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bifidobacteriaceae ", 
+    "children": [
+      {
+        "name": "31953", 
+        "children": [
+          {
+            "name": "85004", 
+            "size": 99
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Kocuria ", 
+    "children": [
+      {
+        "name": "57493", 
+        "children": [
+          {
+            "name": "1268", 
+            "size": 100
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Prevotella ", 
+    "children": [
+      {
+        "name": "838", 
+        "children": [
+          {
+            "name": "171552", 
+            "size": 101
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Planctomycetaceae ", 
+    "children": [
+      {
+        "name": "126", 
+        "children": [
+          {
+            "name": "112", 
+            "size": 102
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "129707", 
+        "children": [
+          {
+            "name": "1279", 
+            "size": 103
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Capnocytophaga ", 
+    "children": [
+      {
+        "name": "1016", 
+        "children": [
+          {
+            "name": "49546", 
+            "size": 104
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chryseobacterium ", 
+    "children": [
+      {
+        "name": "59732", 
+        "children": [
+          {
+            "name": "49546", 
+            "size": 105
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Actinomycetaceae ", 
+    "children": [
+      {
+        "name": "2049", 
+        "children": [
+          {
+            "name": "85005", 
+            "size": 106
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Actinomycineae ", 
+    "children": [
+      {
+        "name": "85005", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 107
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Deinococcaceae ", 
+    "children": [
+      {
+        "name": "183710", 
+        "children": [
+          {
+            "name": "118964", 
+            "size": 108
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Planctomycetaceae bacterium ", 
+    "children": [
+      {
+        "name": "100233", 
+        "children": [
+          {
+            "name": "69409", 
+            "size": 109
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "69409", 
+        "children": [
+          {
+            "name": "126", 
+            "size": 110
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Mycobacteriaceae ", 
+    "children": [
+      {
+        "name": "1762", 
+        "children": [
+          {
+            "name": "85007", 
+            "size": 111
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Actinomyces ", 
+    "children": [
+      {
+        "name": "1654", 
+        "children": [
+          {
+            "name": "2049", 
+            "size": 112
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Mycobacterium ", 
+    "children": [
+      {
+        "name": "1763", 
+        "children": [
+          {
+            "name": "1762", 
+            "size": 113
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Clostridiales incertae sedis ", 
+    "children": [
+      {
+        "name": "538999", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 114
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus rossiae ", 
+    "children": [
+      {
+        "name": "231049", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 115
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chlamydiae/Verrucomicrobia group ", 
+    "children": [
+      {
+        "name": "51290", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 116
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Clostridiales Family XI. Incertae Sedis ", 
+    "children": [
+      {
+        "name": "543310", 
+        "children": [
+          {
+            "name": "538999", 
+            "size": 117
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lachnospiraceae ", 
+    "children": [
+      {
+        "name": "186803", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 118
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Staphylococcus sp. ", 
+    "children": [
+      {
+        "name": "189668", 
+        "children": [
+          {
+            "name": "129707", 
+            "size": 119
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Lactobacillus sp. ", 
+    "children": [
+      {
+        "name": "153152", 
+        "children": [
+          {
+            "name": "134232", 
+            "size": 120
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "134232", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 121
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphingomonas ", 
+    "children": [
+      {
+        "name": "13687", 
+        "children": [
+          {
+            "name": "41297", 
+            "size": 122
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillales incertae sedis ", 
+    "children": [
+      {
+        "name": "539002", 
+        "children": [
+          {
+            "name": "1385", 
+            "size": 123
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "50742", 
+        "children": [
+          {
+            "name": "976", 
+            "size": 124
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacteroidetes bacterium ", 
+    "children": [
+      {
+        "name": "152509", 
+        "children": [
+          {
+            "name": "50742", 
+            "size": 125
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Frankineae ", 
+    "children": [
+      {
+        "name": "85013", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 126
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Deinococcus ", 
+    "children": [
+      {
+        "name": "1298", 
+        "children": [
+          {
+            "name": "183710", 
+            "size": 127
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Paracoccus ", 
+    "children": [
+      {
+        "name": "265", 
+        "children": [
+          {
+            "name": "31989", 
+            "size": 128
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Deinococcales bacterium ", 
+    "children": [
+      {
+        "name": "310703", 
+        "children": [
+          {
+            "name": "310702", 
+            "size": 129
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "310702", 
+        "children": [
+          {
+            "name": "118964", 
+            "size": 130
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Weissella ", 
+    "children": [
+      {
+        "name": "46255", 
+        "children": [
+          {
+            "name": "81850", 
+            "size": 131
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Neisseriales ", 
+    "children": [
+      {
+        "name": "206351", 
+        "children": [
+          {
+            "name": "28216", 
+            "size": 132
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Geodermatophilaceae ", 
+    "children": [
+      {
+        "name": "85030", 
+        "children": [
+          {
+            "name": "85013", 
+            "size": 133
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Fibrobacteres/Acidobacteria group ", 
+    "children": [
+      {
+        "name": "131550", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 134
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leptotrichiaceae ", 
+    "children": [
+      {
+        "name": "1129771", 
+        "children": [
+          {
+            "name": "203491", 
+            "size": 135
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pasteurellales ", 
+    "children": [
+      {
+        "name": "135625", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 136
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bifidobacterium ", 
+    "children": [
+      {
+        "name": "1678", 
+        "children": [
+          {
+            "name": "31953", 
+            "size": 137
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acidobacteria ", 
+    "children": [
+      {
+        "name": "57723", 
+        "children": [
+          {
+            "name": "131550", 
+            "size": 138
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Verrucomicrobia ", 
+    "children": [
+      {
+        "name": "74201", 
+        "children": [
+          {
+            "name": "51290", 
+            "size": 139
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Roseomonas ", 
+    "children": [
+      {
+        "name": "125216", 
+        "children": [
+          {
+            "name": "433", 
+            "size": 140
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leptotrichia ", 
+    "children": [
+      {
+        "name": "32067", 
+        "children": [
+          {
+            "name": "1129771", 
+            "size": 141
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "47925", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 142
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Enterococcaceae ", 
+    "children": [
+      {
+        "name": "81852", 
+        "children": [
+          {
+            "name": "186826", 
+            "size": 143
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pasteurellaceae ", 
+    "children": [
+      {
+        "name": "712", 
+        "children": [
+          {
+            "name": "135625", 
+            "size": 144
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteroidaceae ", 
+    "children": [
+      {
+        "name": "815", 
+        "children": [
+          {
+            "name": "171549", 
+            "size": 145
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Enterobacteriales ", 
+    "children": [
+      {
+        "name": "91347", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 146
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured alpha proteobacterium ", 
+    "children": [
+      {
+        "name": "91750", 
+        "children": [
+          {
+            "name": "47925", 
+            "size": 147
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Oxalobacteraceae ", 
+    "children": [
+      {
+        "name": "75682", 
+        "children": [
+          {
+            "name": "80840", 
+            "size": 148
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Enterobacteriaceae ", 
+    "children": [
+      {
+        "name": "543", 
+        "children": [
+          {
+            "name": "91347", 
+            "size": 149
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Neisseriaceae ", 
+    "children": [
+      {
+        "name": "481", 
+        "children": [
+          {
+            "name": "206351", 
+            "size": 150
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Propionibacteriaceae ", 
+    "children": [
+      {
+        "name": "31957", 
+        "children": [
+          {
+            "name": "85009", 
+            "size": 151
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus delbrueckii subsp. bulgaricus ", 
+    "children": [
+      {
+        "name": "1585", 
+        "children": [
+          {
+            "name": "1584", 
+            "size": 152
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphingobacteriia ", 
+    "children": [
+      {
+        "name": "117747", 
+        "children": [
+          {
+            "name": "976", 
+            "size": 153
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Microbacterium ", 
+    "children": [
+      {
+        "name": "33882", 
+        "children": [
+          {
+            "name": "85023", 
+            "size": 154
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphingobacteriales ", 
+    "children": [
+      {
+        "name": "200666", 
+        "children": [
+          {
+            "name": "117747", 
+            "size": 155
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Brevibacteriaceae ", 
+    "children": [
+      {
+        "name": "85019", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 156
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Intrasporangiaceae ", 
+    "children": [
+      {
+        "name": "85021", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 157
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Veillonella ", 
+    "children": [
+      {
+        "name": "29465", 
+        "children": [
+          {
+            "name": "31977", 
+            "size": 158
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Brevibacterium ", 
+    "children": [
+      {
+        "name": "1696", 
+        "children": [
+          {
+            "name": "85019", 
+            "size": 159
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Porphyromonadaceae ", 
+    "children": [
+      {
+        "name": "171551", 
+        "children": [
+          {
+            "name": "171549", 
+            "size": 160
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostoc carnosum ", 
+    "children": [
+      {
+        "name": "1252", 
+        "children": [
+          {
+            "name": "1243", 
+            "size": 161
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphingobacteriaceae ", 
+    "children": [
+      {
+        "name": "84566", 
+        "children": [
+          {
+            "name": "200666", 
+            "size": 162
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dermabacteraceae ", 
+    "children": [
+      {
+        "name": "85020", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 163
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "59619", 
+        "children": [
+          {
+            "name": "1485", 
+            "size": 164
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Brachybacterium ", 
+    "children": [
+      {
+        "name": "43668", 
+        "children": [
+          {
+            "name": "85020", 
+            "size": 165
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Clostridium sp. ", 
+    "children": [
+      {
+        "name": "59620", 
+        "children": [
+          {
+            "name": "59619", 
+            "size": 166
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudoclavibacter ", 
+    "children": [
+      {
+        "name": "255204", 
+        "children": [
+          {
+            "name": "85023", 
+            "size": 167
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteroides ", 
+    "children": [
+      {
+        "name": "816", 
+        "children": [
+          {
+            "name": "815", 
+            "size": 168
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Enterococcus ", 
+    "children": [
+      {
+        "name": "1350", 
+        "children": [
+          {
+            "name": "81852", 
+            "size": 169
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Xanthomonadales ", 
+    "children": [
+      {
+        "name": "135614", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 170
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "47936", 
+        "children": [
+          {
+            "name": "1224", 
+            "size": 171
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured proteobacterium ", 
+    "children": [
+      {
+        "name": "153809", 
+        "children": [
+          {
+            "name": "47936", 
+            "size": 172
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Exiguobacterium ", 
+    "children": [
+      {
+        "name": "33986", 
+        "children": [
+          {
+            "name": "539742", 
+            "size": 173
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillales Family XII. Incertae Sedis ", 
+    "children": [
+      {
+        "name": "539742", 
+        "children": [
+          {
+            "name": "539002", 
+            "size": 174
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nocardioidaceae ", 
+    "children": [
+      {
+        "name": "85015", 
+        "children": [
+          {
+            "name": "85009", 
+            "size": 175
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rickettsiales ", 
+    "children": [
+      {
+        "name": "766", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 176
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "83426", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 177
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus cereus group ", 
+    "children": [
+      {
+        "name": "86661", 
+        "children": [
+          {
+            "name": "1386", 
+            "size": 178
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dietziaceae ", 
+    "children": [
+      {
+        "name": "85029", 
+        "children": [
+          {
+            "name": "85007", 
+            "size": 179
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dietzia ", 
+    "children": [
+      {
+        "name": "37914", 
+        "children": [
+          {
+            "name": "85029", 
+            "size": 180
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Selenomonas ", 
+    "children": [
+      {
+        "name": "970", 
+        "children": [
+          {
+            "name": "31977", 
+            "size": 181
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus cereus ", 
+    "children": [
+      {
+        "name": "1396", 
+        "children": [
+          {
+            "name": "86661", 
+            "size": 182
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Xanthomonadaceae ", 
+    "children": [
+      {
+        "name": "32033", 
+        "children": [
+          {
+            "name": "135614", 
+            "size": 183
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "75661", 
+        "children": [
+          {
+            "name": "469", 
+            "size": 184
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Streptococcus sp. ", 
+    "children": [
+      {
+        "name": "83427", 
+        "children": [
+          {
+            "name": "83426", 
+            "size": 185
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "58229", 
+        "children": [
+          {
+            "name": "200795", 
+            "size": 186
+          }
+        ]
+      }, 
+      {
+        "name": "40903", 
+        "children": [
+          {
+            "name": "112", 
+            "size": 187
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Chloroflexi bacterium ", 
+    "children": [
+      {
+        "name": "166587", 
+        "children": [
+          {
+            "name": "58229", 
+            "size": 188
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "126514", 
+        "children": [
+          {
+            "name": "497", 
+            "size": 189
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Psychrobacter sp. ", 
+    "children": [
+      {
+        "name": "259303", 
+        "children": [
+          {
+            "name": "126514", 
+            "size": 190
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gemella ", 
+    "children": [
+      {
+        "name": "1378", 
+        "children": [
+          {
+            "name": "539738", 
+            "size": 191
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillales Family XI. Incertae Sedis ", 
+    "children": [
+      {
+        "name": "539738", 
+        "children": [
+          {
+            "name": "539002", 
+            "size": 192
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anaplasmataceae ", 
+    "children": [
+      {
+        "name": "942", 
+        "children": [
+          {
+            "name": "766", 
+            "size": 193
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Coriobacteriales ", 
+    "children": [
+      {
+        "name": "84999", 
+        "children": [
+          {
+            "name": "84998", 
+            "size": 194
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Coriobacteridae ", 
+    "children": [
+      {
+        "name": "84998", 
+        "children": [
+          {
+            "name": "1760", 
+            "size": 195
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Wolbachieae ", 
+    "children": [
+      {
+        "name": "952", 
+        "children": [
+          {
+            "name": "942", 
+            "size": 196
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Wolbachia ", 
+    "children": [
+      {
+        "name": "953", 
+        "children": [
+          {
+            "name": "952", 
+            "size": 197
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudonocardiaceae ", 
+    "children": [
+      {
+        "name": "2070", 
+        "children": [
+          {
+            "name": "85010", 
+            "size": 198
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudonocardineae ", 
+    "children": [
+      {
+        "name": "85010", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 199
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Candidatus Liberibacter ", 
+    "children": [
+      {
+        "name": "34019", 
+        "children": [
+          {
+            "name": "82115", 
+            "size": 200
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Candidatus Liberibacter sp. ", 
+    "children": [
+      {
+        "name": "574027", 
+        "children": [
+          {
+            "name": "574026", 
+            "size": 201
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "574026", 
+        "children": [
+          {
+            "name": "34019", 
+            "size": 202
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Arthrobacter ", 
+    "children": [
+      {
+        "name": "1663", 
+        "children": [
+          {
+            "name": "1268", 
+            "size": 203
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Phyllobacteriaceae ", 
+    "children": [
+      {
+        "name": "69277", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 204
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gordoniaceae ", 
+    "children": [
+      {
+        "name": "85026", 
+        "children": [
+          {
+            "name": "85007", 
+            "size": 205
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Staphylococcus hominis ", 
+    "children": [
+      {
+        "name": "1290", 
+        "children": [
+          {
+            "name": "1279", 
+            "size": 206
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Comamonadaceae ", 
+    "children": [
+      {
+        "name": "80864", 
+        "children": [
+          {
+            "name": "80840", 
+            "size": 207
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gordonia ", 
+    "children": [
+      {
+        "name": "2053", 
+        "children": [
+          {
+            "name": "85026", 
+            "size": 208
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Modestobacter ", 
+    "children": [
+      {
+        "name": "88138", 
+        "children": [
+          {
+            "name": "85030", 
+            "size": 209
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Coriobacteriaceae ", 
+    "children": [
+      {
+        "name": "84107", 
+        "children": [
+          {
+            "name": "255727", 
+            "size": 210
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Coriobacterineae ", 
+    "children": [
+      {
+        "name": "255727", 
+        "children": [
+          {
+            "name": "84999", 
+            "size": 211
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "62104", 
+        "children": [
+          {
+            "name": "286", 
+            "size": 212
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhizobium/Agrobacterium group ", 
+    "children": [
+      {
+        "name": "227290", 
+        "children": [
+          {
+            "name": "82115", 
+            "size": 213
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gemmatimonadetes ", 
+    "children": [
+      {
+        "name": "142182", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 214
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Pseudomonas sp. ", 
+    "children": [
+      {
+        "name": "114707", 
+        "children": [
+          {
+            "name": "62104", 
+            "size": 215
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphingobacterium ", 
+    "children": [
+      {
+        "name": "28453", 
+        "children": [
+          {
+            "name": "84566", 
+            "size": 216
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nostocales ", 
+    "children": [
+      {
+        "name": "1161", 
+        "children": [
+          {
+            "name": "1117", 
+            "size": 217
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bradyrhizobium ", 
+    "children": [
+      {
+        "name": "374", 
+        "children": [
+          {
+            "name": "41294", 
+            "size": 218
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Porphyromonas ", 
+    "children": [
+      {
+        "name": "836", 
+        "children": [
+          {
+            "name": "171551", 
+            "size": 219
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anaerococcus ", 
+    "children": [
+      {
+        "name": "165779", 
+        "children": [
+          {
+            "name": "1570339", 
+            "size": 220
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Planococcaceae ", 
+    "children": [
+      {
+        "name": "186818", 
+        "children": [
+          {
+            "name": "1385", 
+            "size": 221
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Haemophilus ", 
+    "children": [
+      {
+        "name": "724", 
+        "children": [
+          {
+            "name": "712", 
+            "size": 222
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Neisseria ", 
+    "children": [
+      {
+        "name": "482", 
+        "children": [
+          {
+            "name": "481", 
+            "size": 223
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Propionibacterium ", 
+    "children": [
+      {
+        "name": "1743", 
+        "children": [
+          {
+            "name": "31957", 
+            "size": 224
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Fusobacteriaceae ", 
+    "children": [
+      {
+        "name": "203492", 
+        "children": [
+          {
+            "name": "203491", 
+            "size": 225
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Caulobacterales ", 
+    "children": [
+      {
+        "name": "204458", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 226
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "57727", 
+        "children": [
+          {
+            "name": "57723", 
+            "size": 227
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gardnerella ", 
+    "children": [
+      {
+        "name": "2701", 
+        "children": [
+          {
+            "name": "31953", 
+            "size": 228
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pleurocapsales ", 
+    "children": [
+      {
+        "name": "52604", 
+        "children": [
+          {
+            "name": "1117", 
+            "size": 229
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Acidobacteria bacterium ", 
+    "children": [
+      {
+        "name": "171953", 
+        "children": [
+          {
+            "name": "57727", 
+            "size": 230
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chroococcidiopsis ", 
+    "children": [
+      {
+        "name": "54298", 
+        "children": [
+          {
+            "name": "52604", 
+            "size": 231
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "47928", 
+        "children": [
+          {
+            "name": "1239", 
+            "size": 232
+          }
+        ]
+      }, 
+      {
+        "name": "95759", 
+        "children": [
+          {
+            "name": "89373", 
+            "size": 233
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Finegoldia ", 
+    "children": [
+      {
+        "name": "150022", 
+        "children": [
+          {
+            "name": "1570339", 
+            "size": 234
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Epsilonproteobacteria ", 
+    "children": [
+      {
+        "name": "29547", 
+        "children": [
+          {
+            "name": "68525", 
+            "size": 235
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Flexibacteraceae bacterium ", 
+    "children": [
+      {
+        "name": "239735", 
+        "children": [
+          {
+            "name": "95759", 
+            "size": 236
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermales ", 
+    "children": [
+      {
+        "name": "68933", 
+        "children": [
+          {
+            "name": "188787", 
+            "size": 237
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Phyllobacterium ", 
+    "children": [
+      {
+        "name": "28100", 
+        "children": [
+          {
+            "name": "69277", 
+            "size": 238
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Caulobacteraceae ", 
+    "children": [
+      {
+        "name": "76892", 
+        "children": [
+          {
+            "name": "204458", 
+            "size": 239
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Firmicutes bacterium ", 
+    "children": [
+      {
+        "name": "344338", 
+        "children": [
+          {
+            "name": "47928", 
+            "size": 240
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Myxococcales ", 
+    "children": [
+      {
+        "name": "29", 
+        "children": [
+          {
+            "name": "28221", 
+            "size": 241
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Ralstonia sp. ", 
+    "children": [
+      {
+        "name": "114715", 
+        "children": [
+          {
+            "name": "54522", 
+            "size": 242
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "54522", 
+        "children": [
+          {
+            "name": "48736", 
+            "size": 243
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leptotrichia wadei ", 
+    "children": [
+      {
+        "name": "157687", 
+        "children": [
+          {
+            "name": "32067", 
+            "size": 244
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermaceae ", 
+    "children": [
+      {
+        "name": "188786", 
+        "children": [
+          {
+            "name": "68933", 
+            "size": 245
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Oscillatoriophycideae ", 
+    "children": [
+      {
+        "name": "1301283", 
+        "children": [
+          {
+            "name": "1117", 
+            "size": 246
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus mitis ", 
+    "children": [
+      {
+        "name": "28037", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 247
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Fusobacterium ", 
+    "children": [
+      {
+        "name": "848", 
+        "children": [
+          {
+            "name": "203492", 
+            "size": 248
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Flavobacterium ", 
+    "children": [
+      {
+        "name": "237", 
+        "children": [
+          {
+            "name": "49546", 
+            "size": 249
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nostocaceae ", 
+    "children": [
+      {
+        "name": "1162", 
+        "children": [
+          {
+            "name": "1161", 
+            "size": 250
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermus ", 
+    "children": [
+      {
+        "name": "270", 
+        "children": [
+          {
+            "name": "188786", 
+            "size": 251
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Campylobacterales ", 
+    "children": [
+      {
+        "name": "213849", 
+        "children": [
+          {
+            "name": "29547", 
+            "size": 252
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured planctomycete ", 
+    "children": [
+      {
+        "name": "120965", 
+        "children": [
+          {
+            "name": "40903", 
+            "size": 253
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Acinetobacter sp. ", 
+    "children": [
+      {
+        "name": "165433", 
+        "children": [
+          {
+            "name": "75661", 
+            "size": 254
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "34033", 
+        "children": [
+          {
+            "name": "28221", 
+            "size": 255
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Campylobacteraceae ", 
+    "children": [
+      {
+        "name": "72294", 
+        "children": [
+          {
+            "name": "213849", 
+            "size": 256
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured delta proteobacterium ", 
+    "children": [
+      {
+        "name": "34034", 
+        "children": [
+          {
+            "name": "34033", 
+            "size": 257
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nocardioides ", 
+    "children": [
+      {
+        "name": "1839", 
+        "children": [
+          {
+            "name": "85015", 
+            "size": 258
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Xanthobacteraceae ", 
+    "children": [
+      {
+        "name": "335928", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 259
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "47926", 
+        "children": [
+          {
+            "name": "28216", 
+            "size": 260
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Campylobacter ", 
+    "children": [
+      {
+        "name": "194", 
+        "children": [
+          {
+            "name": "72294", 
+            "size": 261
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Modestobacter multiseptatus ", 
+    "children": [
+      {
+        "name": "88139", 
+        "children": [
+          {
+            "name": "88138", 
+            "size": 262
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured beta proteobacterium ", 
+    "children": [
+      {
+        "name": "86027", 
+        "children": [
+          {
+            "name": "47926", 
+            "size": 263
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Hymenobacter ", 
+    "children": [
+      {
+        "name": "89966", 
+        "children": [
+          {
+            "name": "89373", 
+            "size": 264
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Moraxella ", 
+    "children": [
+      {
+        "name": "475", 
+        "children": [
+          {
+            "name": "468", 
+            "size": 265
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "50423", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 266
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rhizobiales bacterium ", 
+    "children": [
+      {
+        "name": "208549", 
+        "children": [
+          {
+            "name": "57702", 
+            "size": 267
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "57702", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 268
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pediococcus ", 
+    "children": [
+      {
+        "name": "1253", 
+        "children": [
+          {
+            "name": "33958", 
+            "size": 269
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Methylobacterium sp. ", 
+    "children": [
+      {
+        "name": "157278", 
+        "children": [
+          {
+            "name": "129670", 
+            "size": 270
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "129670", 
+        "children": [
+          {
+            "name": "407", 
+            "size": 271
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured gamma proteobacterium ", 
+    "children": [
+      {
+        "name": "86473", 
+        "children": [
+          {
+            "name": "50423", 
+            "size": 272
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactococcus lactis ", 
+    "children": [
+      {
+        "name": "1358", 
+        "children": [
+          {
+            "name": "1357", 
+            "size": 273
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chlamydiia ", 
+    "children": [
+      {
+        "name": "204429", 
+        "children": [
+          {
+            "name": "204428", 
+            "size": 274
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Brevundimonas ", 
+    "children": [
+      {
+        "name": "41275", 
+        "children": [
+          {
+            "name": "76892", 
+            "size": 275
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Stenotrophomonas ", 
+    "children": [
+      {
+        "name": "40323", 
+        "children": [
+          {
+            "name": "32033", 
+            "size": 276
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Saccharopolyspora ", 
+    "children": [
+      {
+        "name": "1835", 
+        "children": [
+          {
+            "name": "2070", 
+            "size": 277
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Oscillatoriales ", 
+    "children": [
+      {
+        "name": "1150", 
+        "children": [
+          {
+            "name": "1301283", 
+            "size": 278
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Oceanospirillales ", 
+    "children": [
+      {
+        "name": "135619", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 279
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Friedmanniella ", 
+    "children": [
+      {
+        "name": "53387", 
+        "children": [
+          {
+            "name": "85015", 
+            "size": 280
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Vagococcus ", 
+    "children": [
+      {
+        "name": "2737", 
+        "children": [
+          {
+            "name": "81852", 
+            "size": 281
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Moraxella ", 
+    "children": [
+      {
+        "name": "46225", 
+        "children": [
+          {
+            "name": "475", 
+            "size": 282
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "142185", 
+        "children": [
+          {
+            "name": "142182", 
+            "size": 283
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Gemmatimonadetes bacterium ", 
+    "children": [
+      {
+        "name": "203437", 
+        "children": [
+          {
+            "name": "142185", 
+            "size": 284
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Halomonadaceae ", 
+    "children": [
+      {
+        "name": "28256", 
+        "children": [
+          {
+            "name": "135619", 
+            "size": 285
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rahnella ", 
+    "children": [
+      {
+        "name": "34037", 
+        "children": [
+          {
+            "name": "543", 
+            "size": 286
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Peptoniphilus ", 
+    "children": [
+      {
+        "name": "162289", 
+        "children": [
+          {
+            "name": "1570339", 
+            "size": 287
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermus thermophilus ", 
+    "children": [
+      {
+        "name": "274", 
+        "children": [
+          {
+            "name": "270", 
+            "size": 288
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Erysipelotrichia ", 
+    "children": [
+      {
+        "name": "526524", 
+        "children": [
+          {
+            "name": "1239", 
+            "size": 289
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Erysipelotrichales ", 
+    "children": [
+      {
+        "name": "526525", 
+        "children": [
+          {
+            "name": "526524", 
+            "size": 290
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Erysipelotrichaceae ", 
+    "children": [
+      {
+        "name": "128827", 
+        "children": [
+          {
+            "name": "526525", 
+            "size": 291
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dermacoccaceae ", 
+    "children": [
+      {
+        "name": "145357", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 292
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Lachnospiraceae bacterium ", 
+    "children": [
+      {
+        "name": "297314", 
+        "children": [
+          {
+            "name": "189703", 
+            "size": 293
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "189703", 
+        "children": [
+          {
+            "name": "186803", 
+            "size": 294
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodocyclales ", 
+    "children": [
+      {
+        "name": "206389", 
+        "children": [
+          {
+            "name": "28216", 
+            "size": 295
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodocyclaceae ", 
+    "children": [
+      {
+        "name": "75787", 
+        "children": [
+          {
+            "name": "206389", 
+            "size": 296
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Parabacteroides sp. ", 
+    "children": [
+      {
+        "name": "512312", 
+        "children": [
+          {
+            "name": "512311", 
+            "size": 297
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Cellulomonadaceae ", 
+    "children": [
+      {
+        "name": "85016", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 298
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus didelphis ", 
+    "children": [
+      {
+        "name": "102886", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 299
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rothia ", 
+    "children": [
+      {
+        "name": "32207", 
+        "children": [
+          {
+            "name": "1268", 
+            "size": 300
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leptotrichia sp. oral taxon 498 ", 
+    "children": [
+      {
+        "name": "712368", 
+        "children": [
+          {
+            "name": "32067", 
+            "size": 301
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Aurantimonadaceae ", 
+    "children": [
+      {
+        "name": "255475", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 302
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Clostridiales bacterium ", 
+    "children": [
+      {
+        "name": "172733", 
+        "children": [
+          {
+            "name": "50559", 
+            "size": 303
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "50559", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 304
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Hyphomicrobiaceae ", 
+    "children": [
+      {
+        "name": "45401", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 305
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacilli bacterium ", 
+    "children": [
+      {
+        "name": "224209", 
+        "children": [
+          {
+            "name": "224208", 
+            "size": 306
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "224208", 
+        "children": [
+          {
+            "name": "91061", 
+            "size": 307
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Robinsoniella peoriensis ", 
+    "children": [
+      {
+        "name": "180332", 
+        "children": [
+          {
+            "name": "588605", 
+            "size": 308
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rathayibacter ", 
+    "children": [
+      {
+        "name": "33886", 
+        "children": [
+          {
+            "name": "85023", 
+            "size": 309
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Agrococcus ", 
+    "children": [
+      {
+        "name": "46352", 
+        "children": [
+          {
+            "name": "85023", 
+            "size": 310
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudonocardia ", 
+    "children": [
+      {
+        "name": "1847", 
+        "children": [
+          {
+            "name": "2070", 
+            "size": 311
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Sphingomonas sp. ", 
+    "children": [
+      {
+        "name": "158754", 
+        "children": [
+          {
+            "name": "114554", 
+            "size": 312
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "114554", 
+        "children": [
+          {
+            "name": "13687", 
+            "size": 313
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Archaea ", 
+    "children": [
+      {
+        "name": "2157", 
+        "children": [
+          {
+            "name": "131567", 
+            "size": 314
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acetobacter ", 
+    "children": [
+      {
+        "name": "434", 
+        "children": [
+          {
+            "name": "433", 
+            "size": 315
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "139043", 
+        "children": [
+          {
+            "name": "816", 
+            "size": 316
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Propionibacterium sp. ", 
+    "children": [
+      {
+        "name": "218066", 
+        "children": [
+          {
+            "name": "135077", 
+            "size": 317
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "135077", 
+        "children": [
+          {
+            "name": "1743", 
+            "size": 318
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostoc mesenteroides ", 
+    "children": [
+      {
+        "name": "1245", 
+        "children": [
+          {
+            "name": "1243", 
+            "size": 319
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Rhizobiales ", 
+    "children": [
+      {
+        "name": "119042", 
+        "children": [
+          {
+            "name": "356", 
+            "size": 320
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Rhizobiales (miscellaneous) ", 
+    "children": [
+      {
+        "name": "41292", 
+        "children": [
+          {
+            "name": "119042", 
+            "size": 321
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodopseudomonas ", 
+    "children": [
+      {
+        "name": "1073", 
+        "children": [
+          {
+            "name": "41294", 
+            "size": 322
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "65119", 
+        "children": [
+          {
+            "name": "1386", 
+            "size": 323
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Spirosoma ", 
+    "children": [
+      {
+        "name": "107", 
+        "children": [
+          {
+            "name": "89373", 
+            "size": 324
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacillus sp. ", 
+    "children": [
+      {
+        "name": "83428", 
+        "children": [
+          {
+            "name": "65119", 
+            "size": 325
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "56769", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 326
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Alcaligenaceae ", 
+    "children": [
+      {
+        "name": "506", 
+        "children": [
+          {
+            "name": "80840", 
+            "size": 327
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Cellulomonas ", 
+    "children": [
+      {
+        "name": "1707", 
+        "children": [
+          {
+            "name": "85016", 
+            "size": 328
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Actinomycetales bacterium ", 
+    "children": [
+      {
+        "name": "239730", 
+        "children": [
+          {
+            "name": "56769", 
+            "size": 329
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Ornithinimicrobium ", 
+    "children": [
+      {
+        "name": "125287", 
+        "children": [
+          {
+            "name": "85021", 
+            "size": 330
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Planctomycetales bacterium ", 
+    "children": [
+      {
+        "name": "100371", 
+        "children": [
+          {
+            "name": "40903", 
+            "size": 331
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus sp. oral taxon C65 ", 
+    "children": [
+      {
+        "name": "712645", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 332
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus salivarius ", 
+    "children": [
+      {
+        "name": "1304", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 333
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dermacoccus ", 
+    "children": [
+      {
+        "name": "57495", 
+        "children": [
+          {
+            "name": "145357", 
+            "size": 334
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Chryseobacterium sp. ", 
+    "children": [
+      {
+        "name": "259322", 
+        "children": [
+          {
+            "name": "259321", 
+            "size": 335
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "259321", 
+        "children": [
+          {
+            "name": "59732", 
+            "size": 336
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Methylobacterium adhaesivum ", 
+    "children": [
+      {
+        "name": "333297", 
+        "children": [
+          {
+            "name": "407", 
+            "size": 337
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas fluorescens group ", 
+    "children": [
+      {
+        "name": "136843", 
+        "children": [
+          {
+            "name": "286", 
+            "size": 338
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anabaena ", 
+    "children": [
+      {
+        "name": "1163", 
+        "children": [
+          {
+            "name": "1162", 
+            "size": 339
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Spirochaetia ", 
+    "children": [
+      {
+        "name": "203692", 
+        "children": [
+          {
+            "name": "203691", 
+            "size": 340
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Spirochaetes ", 
+    "children": [
+      {
+        "name": "203691", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 341
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gemella haemolysans ", 
+    "children": [
+      {
+        "name": "1379", 
+        "children": [
+          {
+            "name": "1378", 
+            "size": 342
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sorangiineae ", 
+    "children": [
+      {
+        "name": "80812", 
+        "children": [
+          {
+            "name": "29", 
+            "size": 343
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus sakei ", 
+    "children": [
+      {
+        "name": "1599", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 344
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodospirillaceae ", 
+    "children": [
+      {
+        "name": "41295", 
+        "children": [
+          {
+            "name": "204441", 
+            "size": 345
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptomycineae ", 
+    "children": [
+      {
+        "name": "85011", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 346
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pedobacter ", 
+    "children": [
+      {
+        "name": "84567", 
+        "children": [
+          {
+            "name": "84566", 
+            "size": 347
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Alteromonadales ", 
+    "children": [
+      {
+        "name": "135622", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 348
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptomycetaceae ", 
+    "children": [
+      {
+        "name": "2062", 
+        "children": [
+          {
+            "name": "85011", 
+            "size": 349
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Peptococcaceae ", 
+    "children": [
+      {
+        "name": "186807", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 350
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "74202", 
+        "children": [
+          {
+            "name": "74201", 
+            "size": 351
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Spirochaetales ", 
+    "children": [
+      {
+        "name": "136", 
+        "children": [
+          {
+            "name": "203692", 
+            "size": 352
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus thermophilus ", 
+    "children": [
+      {
+        "name": "1308", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 353
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dyadobacter ", 
+    "children": [
+      {
+        "name": "120831", 
+        "children": [
+          {
+            "name": "89373", 
+            "size": 354
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptomyces ", 
+    "children": [
+      {
+        "name": "1883", 
+        "children": [
+          {
+            "name": "2062", 
+            "size": 355
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "89277", 
+        "children": [
+          {
+            "name": "1357", 
+            "size": 356
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Janibacter ", 
+    "children": [
+      {
+        "name": "53457", 
+        "children": [
+          {
+            "name": "85021", 
+            "size": 357
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Peptostreptococcaceae ", 
+    "children": [
+      {
+        "name": "186804", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 358
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacteroidales bacterium ", 
+    "children": [
+      {
+        "name": "194843", 
+        "children": [
+          {
+            "name": "189693", 
+            "size": 359
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "189693", 
+        "children": [
+          {
+            "name": "171549", 
+            "size": 360
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Arcanobacterium ", 
+    "children": [
+      {
+        "name": "28263", 
+        "children": [
+          {
+            "name": "2049", 
+            "size": 361
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Verrucomicrobia bacterium ", 
+    "children": [
+      {
+        "name": "156588", 
+        "children": [
+          {
+            "name": "74202", 
+            "size": 362
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Vagococcus sp. ", 
+    "children": [
+      {
+        "name": "189676", 
+        "children": [
+          {
+            "name": "189675", 
+            "size": 363
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Eubacteriaceae ", 
+    "children": [
+      {
+        "name": "186806", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 364
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Spirochaetaceae ", 
+    "children": [
+      {
+        "name": "137", 
+        "children": [
+          {
+            "name": "136", 
+            "size": 365
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Polyangiaceae ", 
+    "children": [
+      {
+        "name": "49", 
+        "children": [
+          {
+            "name": "80812", 
+            "size": 366
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acidobacteriales ", 
+    "children": [
+      {
+        "name": "204433", 
+        "children": [
+          {
+            "name": "204432", 
+            "size": 367
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acidobacteriia ", 
+    "children": [
+      {
+        "name": "204432", 
+        "children": [
+          {
+            "name": "57723", 
+            "size": 368
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus sanguinis ", 
+    "children": [
+      {
+        "name": "1305", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 369
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Massilia ", 
+    "children": [
+      {
+        "name": "149698", 
+        "children": [
+          {
+            "name": "75682", 
+            "size": 370
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Blautia ", 
+    "children": [
+      {
+        "name": "572511", 
+        "children": [
+          {
+            "name": "186803", 
+            "size": 371
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Burkholderiales ", 
+    "children": [
+      {
+        "name": "119065", 
+        "children": [
+          {
+            "name": "80840", 
+            "size": 372
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acidobacteriaceae ", 
+    "children": [
+      {
+        "name": "204434", 
+        "children": [
+          {
+            "name": "204433", 
+            "size": 373
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dechloromonas ", 
+    "children": [
+      {
+        "name": "73029", 
+        "children": [
+          {
+            "name": "75787", 
+            "size": 374
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhizobium ", 
+    "children": [
+      {
+        "name": "379", 
+        "children": [
+          {
+            "name": "227290", 
+            "size": 375
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Comamonas ", 
+    "children": [
+      {
+        "name": "283", 
+        "children": [
+          {
+            "name": "80864", 
+            "size": 376
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Acidobacteriaceae bacterium ", 
+    "children": [
+      {
+        "name": "194844", 
+        "children": [
+          {
+            "name": "112075", 
+            "size": 377
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "112075", 
+        "children": [
+          {
+            "name": "204434", 
+            "size": 378
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Burkholderiales Genera incertae sedis ", 
+    "children": [
+      {
+        "name": "224471", 
+        "children": [
+          {
+            "name": "119065", 
+            "size": 379
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Eubacterium ", 
+    "children": [
+      {
+        "name": "1730", 
+        "children": [
+          {
+            "name": "186806", 
+            "size": 380
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pontibacter ", 
+    "children": [
+      {
+        "name": "323449", 
+        "children": [
+          {
+            "name": "89373", 
+            "size": 381
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Microvirgula ", 
+    "children": [
+      {
+        "name": "57479", 
+        "children": [
+          {
+            "name": "1499392", 
+            "size": 382
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rubrobacteridae ", 
+    "children": [
+      {
+        "name": "84995", 
+        "children": [
+          {
+            "name": "1760", 
+            "size": 383
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chroococcales ", 
+    "children": [
+      {
+        "name": "1118", 
+        "children": [
+          {
+            "name": "1301283", 
+            "size": 384
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptosporangineae ", 
+    "children": [
+      {
+        "name": "85012", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 385
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leifsonia ", 
+    "children": [
+      {
+        "name": "110932", 
+        "children": [
+          {
+            "name": "85023", 
+            "size": 386
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Erysipelotrichaceae ", 
+    "children": [
+      {
+        "name": "433334", 
+        "children": [
+          {
+            "name": "128827", 
+            "size": 387
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pantoea ", 
+    "children": [
+      {
+        "name": "53335", 
+        "children": [
+          {
+            "name": "543", 
+            "size": 388
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Verrucomicrobiae ", 
+    "children": [
+      {
+        "name": "203494", 
+        "children": [
+          {
+            "name": "74201", 
+            "size": 389
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Agrobacterium ", 
+    "children": [
+      {
+        "name": "357", 
+        "children": [
+          {
+            "name": "227290", 
+            "size": 390
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Blastococcus ", 
+    "children": [
+      {
+        "name": "38501", 
+        "children": [
+          {
+            "name": "85030", 
+            "size": 391
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Lactobacillaceae bacterium ", 
+    "children": [
+      {
+        "name": "218288", 
+        "children": [
+          {
+            "name": "218287", 
+            "size": 392
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "218287", 
+        "children": [
+          {
+            "name": "33958", 
+            "size": 393
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacteroides sp. ", 
+    "children": [
+      {
+        "name": "162156", 
+        "children": [
+          {
+            "name": "139043", 
+            "size": 394
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Verrucomicrobiales ", 
+    "children": [
+      {
+        "name": "48461", 
+        "children": [
+          {
+            "name": "203494", 
+            "size": 395
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Xanthomonas ", 
+    "children": [
+      {
+        "name": "338", 
+        "children": [
+          {
+            "name": "32033", 
+            "size": 396
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Flavobacteriaceae bacterium ", 
+    "children": [
+      {
+        "name": "165436", 
+        "children": [
+          {
+            "name": "117745", 
+            "size": 397
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "117745", 
+        "children": [
+          {
+            "name": "49546", 
+            "size": 398
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas fluorescens ", 
+    "children": [
+      {
+        "name": "294", 
+        "children": [
+          {
+            "name": "136843", 
+            "size": 399
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Burkholderia ", 
+    "children": [
+      {
+        "name": "32008", 
+        "children": [
+          {
+            "name": "119060", 
+            "size": 400
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "84372", 
+        "children": [
+          {
+            "name": "1730", 
+            "size": 401
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Lachnospiraceae ", 
+    "children": [
+      {
+        "name": "186928", 
+        "children": [
+          {
+            "name": "186803", 
+            "size": 402
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Dechloromonas sp. ", 
+    "children": [
+      {
+        "name": "171719", 
+        "children": [
+          {
+            "name": "171718", 
+            "size": 403
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "171718", 
+        "children": [
+          {
+            "name": "73029", 
+            "size": 404
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Verrucomicrobiaceae ", 
+    "children": [
+      {
+        "name": "203557", 
+        "children": [
+          {
+            "name": "48461", 
+            "size": 405
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Eubacterium sp. ", 
+    "children": [
+      {
+        "name": "165185", 
+        "children": [
+          {
+            "name": "84372", 
+            "size": 406
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Euryarchaeota ", 
+    "children": [
+      {
+        "name": "28890", 
+        "children": [
+          {
+            "name": "2157", 
+            "size": 407
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "[Eubacterium] dolichum ", 
+    "children": [
+      {
+        "name": "31971", 
+        "children": [
+          {
+            "name": "433334", 
+            "size": 408
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Afipia ", 
+    "children": [
+      {
+        "name": "1033", 
+        "children": [
+          {
+            "name": "41294", 
+            "size": 409
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Caulobacter ", 
+    "children": [
+      {
+        "name": "75", 
+        "children": [
+          {
+            "name": "76892", 
+            "size": 410
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Acetobacteraceae bacterium ", 
+    "children": [
+      {
+        "name": "169975", 
+        "children": [
+          {
+            "name": "134716", 
+            "size": 411
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "134716", 
+        "children": [
+          {
+            "name": "433", 
+            "size": 412
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Janthinobacterium ", 
+    "children": [
+      {
+        "name": "29580", 
+        "children": [
+          {
+            "name": "75682", 
+            "size": 413
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Comamonadaceae bacterium ", 
+    "children": [
+      {
+        "name": "165437", 
+        "children": [
+          {
+            "name": "128082", 
+            "size": 414
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "128082", 
+        "children": [
+          {
+            "name": "80864", 
+            "size": 415
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Armatimonadetes ", 
+    "children": [
+      {
+        "name": "67819", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 416
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Legionellales ", 
+    "children": [
+      {
+        "name": "118969", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 417
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Ruminococcaceae ", 
+    "children": [
+      {
+        "name": "541000", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 418
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "99283", 
+        "children": [
+          {
+            "name": "67819", 
+            "size": 419
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bradyrhizobium sp. ", 
+    "children": [
+      {
+        "name": "199684", 
+        "children": [
+          {
+            "name": "129633", 
+            "size": 420
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "129633", 
+        "children": [
+          {
+            "name": "374", 
+            "size": 421
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Armatimonadetes bacterium ", 
+    "children": [
+      {
+        "name": "157466", 
+        "children": [
+          {
+            "name": "99283", 
+            "size": 422
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Alphaproteobacteria ", 
+    "children": [
+      {
+        "name": "82117", 
+        "children": [
+          {
+            "name": "28211", 
+            "size": 423
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Jeotgalicoccus ", 
+    "children": [
+      {
+        "name": "227979", 
+        "children": [
+          {
+            "name": "90964", 
+            "size": 424
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acidovorax ", 
+    "children": [
+      {
+        "name": "12916", 
+        "children": [
+          {
+            "name": "80864", 
+            "size": 425
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus salivarius ", 
+    "children": [
+      {
+        "name": "1624", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 426
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Oscillatoriales cyanobacterium ", 
+    "children": [
+      {
+        "name": "156210", 
+        "children": [
+          {
+            "name": "156209", 
+            "size": 427
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "156209", 
+        "children": [
+          {
+            "name": "1150", 
+            "size": 428
+          }
+        ]
+      }, 
+      {
+        "name": "129591", 
+        "children": [
+          {
+            "name": "1654", 
+            "size": 429
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas putida group ", 
+    "children": [
+      {
+        "name": "136845", 
+        "children": [
+          {
+            "name": "286", 
+            "size": 430
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Carnobacterium sp. ", 
+    "children": [
+      {
+        "name": "259013", 
+        "children": [
+          {
+            "name": "259012", 
+            "size": 431
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "259012", 
+        "children": [
+          {
+            "name": "2747", 
+            "size": 432
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Peptostreptococcaceae ", 
+    "children": [
+      {
+        "name": "200630", 
+        "children": [
+          {
+            "name": "186804", 
+            "size": 433
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Alphaproteobacteria (miscellaneous) ", 
+    "children": [
+      {
+        "name": "33807", 
+        "children": [
+          {
+            "name": "82117", 
+            "size": 434
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Propionibacterium acnes ", 
+    "children": [
+      {
+        "name": "1747", 
+        "children": [
+          {
+            "name": "1743", 
+            "size": 435
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Promicromonosporaceae ", 
+    "children": [
+      {
+        "name": "85017", 
+        "children": [
+          {
+            "name": "85006", 
+            "size": 436
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "88601", 
+        "children": [
+          {
+            "name": "1716", 
+            "size": 437
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Actinomyces sp. ", 
+    "children": [
+      {
+        "name": "249061", 
+        "children": [
+          {
+            "name": "129591", 
+            "size": 438
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactococcus lactis subsp. lactis ", 
+    "children": [
+      {
+        "name": "1360", 
+        "children": [
+          {
+            "name": "1358", 
+            "size": 439
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermomicrobia ", 
+    "children": [
+      {
+        "name": "189775", 
+        "children": [
+          {
+            "name": "200795", 
+            "size": 440
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Solirubrobacterales ", 
+    "children": [
+      {
+        "name": "588673", 
+        "children": [
+          {
+            "name": "84995", 
+            "size": 441
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Corynebacterium sp. ", 
+    "children": [
+      {
+        "name": "159447", 
+        "children": [
+          {
+            "name": "88601", 
+            "size": 442
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Deinococcus sp. ", 
+    "children": [
+      {
+        "name": "158789", 
+        "children": [
+          {
+            "name": "158788", 
+            "size": 443
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "158788", 
+        "children": [
+          {
+            "name": "1298", 
+            "size": 444
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Tenericutes ", 
+    "children": [
+      {
+        "name": "544448", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 445
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Mollicutes ", 
+    "children": [
+      {
+        "name": "31969", 
+        "children": [
+          {
+            "name": "544448", 
+            "size": 446
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Moraxella sp. ", 
+    "children": [
+      {
+        "name": "263769", 
+        "children": [
+          {
+            "name": "263768", 
+            "size": 447
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Alteromonadaceae ", 
+    "children": [
+      {
+        "name": "72275", 
+        "children": [
+          {
+            "name": "135622", 
+            "size": 448
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus brevis ", 
+    "children": [
+      {
+        "name": "1580", 
+        "children": [
+          {
+            "name": "1578", 
+            "size": 449
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pediococcus damnosus ", 
+    "children": [
+      {
+        "name": "51663", 
+        "children": [
+          {
+            "name": "1253", 
+            "size": 450
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Anaerococcus sp. ", 
+    "children": [
+      {
+        "name": "293428", 
+        "children": [
+          {
+            "name": "293427", 
+            "size": 451
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Clostridiales ", 
+    "children": [
+      {
+        "name": "186813", 
+        "children": [
+          {
+            "name": "186802", 
+            "size": 452
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Burkholderiales bacterium ", 
+    "children": [
+      {
+        "name": "208544", 
+        "children": [
+          {
+            "name": "208545", 
+            "size": 453
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "208545", 
+        "children": [
+          {
+            "name": "80840", 
+            "size": 454
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Clostridia bacterium ", 
+    "children": [
+      {
+        "name": "244328", 
+        "children": [
+          {
+            "name": "218638", 
+            "size": 455
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "218638", 
+        "children": [
+          {
+            "name": "186801", 
+            "size": 456
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacillales bacterium ", 
+    "children": [
+      {
+        "name": "157472", 
+        "children": [
+          {
+            "name": "50609", 
+            "size": 457
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "50609", 
+        "children": [
+          {
+            "name": "1385", 
+            "size": 458
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodococcus erythropolis ", 
+    "children": [
+      {
+        "name": "1833", 
+        "children": [
+          {
+            "name": "1827", 
+            "size": 459
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Clostridiales (miscellaneous) ", 
+    "children": [
+      {
+        "name": "39779", 
+        "children": [
+          {
+            "name": "186813", 
+            "size": 460
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus pumilus ", 
+    "children": [
+      {
+        "name": "1408", 
+        "children": [
+          {
+            "name": "1386", 
+            "size": 461
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Aeromonadales ", 
+    "children": [
+      {
+        "name": "135624", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 462
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "57697", 
+        "children": [
+          {
+            "name": "1300", 
+            "size": 463
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Streptococcaceae bacterium ", 
+    "children": [
+      {
+        "name": "208546", 
+        "children": [
+          {
+            "name": "57697", 
+            "size": 464
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Micromonosporaceae ", 
+    "children": [
+      {
+        "name": "28056", 
+        "children": [
+          {
+            "name": "85008", 
+            "size": 465
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Micromonosporineae ", 
+    "children": [
+      {
+        "name": "85008", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 466
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Hymenobacter sp. ", 
+    "children": [
+      {
+        "name": "170016", 
+        "children": [
+          {
+            "name": "170015", 
+            "size": 467
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "170015", 
+        "children": [
+          {
+            "name": "89966", 
+            "size": 468
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas aeruginosa group ", 
+    "children": [
+      {
+        "name": "136841", 
+        "children": [
+          {
+            "name": "286", 
+            "size": 469
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas putida ", 
+    "children": [
+      {
+        "name": "303", 
+        "children": [
+          {
+            "name": "136845", 
+            "size": 470
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Roseomonas sp. ", 
+    "children": [
+      {
+        "name": "310606", 
+        "children": [
+          {
+            "name": "310605", 
+            "size": 471
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "310605", 
+        "children": [
+          {
+            "name": "125216", 
+            "size": 472
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Cyanothece sp. ", 
+    "children": [
+      {
+        "name": "259951", 
+        "children": [
+          {
+            "name": "259950", 
+            "size": 473
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Cyanothece ", 
+    "children": [
+      {
+        "name": "43988", 
+        "children": [
+          {
+            "name": "1118", 
+            "size": 474
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "259950", 
+        "children": [
+          {
+            "name": "43988", 
+            "size": 475
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Kineosporiaceae ", 
+    "children": [
+      {
+        "name": "83778", 
+        "children": [
+          {
+            "name": "622452", 
+            "size": 476
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Kineosporiineae ", 
+    "children": [
+      {
+        "name": "622452", 
+        "children": [
+          {
+            "name": "2037", 
+            "size": 477
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Gammaproteobacteria ", 
+    "children": [
+      {
+        "name": "118884", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 478
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "129685", 
+        "children": [
+          {
+            "name": "482", 
+            "size": 479
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leptolyngbya ", 
+    "children": [
+      {
+        "name": "47251", 
+        "children": [
+          {
+            "name": "1150", 
+            "size": 480
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Neisseria sp. ", 
+    "children": [
+      {
+        "name": "237778", 
+        "children": [
+          {
+            "name": "129685", 
+            "size": 481
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus subtilis group ", 
+    "children": [
+      {
+        "name": "653685", 
+        "children": [
+          {
+            "name": "1386", 
+            "size": 482
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "87828", 
+        "children": [
+          {
+            "name": "29547", 
+            "size": 483
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Halomonas ", 
+    "children": [
+      {
+        "name": "2745", 
+        "children": [
+          {
+            "name": "28256", 
+            "size": 484
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Gammaproteobacteria (miscellaneous) ", 
+    "children": [
+      {
+        "name": "33811", 
+        "children": [
+          {
+            "name": "118884", 
+            "size": 485
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured epsilon proteobacterium ", 
+    "children": [
+      {
+        "name": "120858", 
+        "children": [
+          {
+            "name": "87828", 
+            "size": 486
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Aeromonadaceae ", 
+    "children": [
+      {
+        "name": "84642", 
+        "children": [
+          {
+            "name": "135624", 
+            "size": 487
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Microlunatus ", 
+    "children": [
+      {
+        "name": "29404", 
+        "children": [
+          {
+            "name": "31957", 
+            "size": 488
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Erythrobacteraceae ", 
+    "children": [
+      {
+        "name": "335929", 
+        "children": [
+          {
+            "name": "204457", 
+            "size": 489
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pelomonas ", 
+    "children": [
+      {
+        "name": "335058", 
+        "children": [
+          {
+            "name": "80864", 
+            "size": 490
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Planctomycetia bacterium ", 
+    "children": [
+      {
+        "name": "411917", 
+        "children": [
+          {
+            "name": "411916", 
+            "size": 491
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Helicobacteraceae ", 
+    "children": [
+      {
+        "name": "72293", 
+        "children": [
+          {
+            "name": "213849", 
+            "size": 492
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chitinophagaceae ", 
+    "children": [
+      {
+        "name": "563835", 
+        "children": [
+          {
+            "name": "200666", 
+            "size": 493
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Janthinobacterium sp. ", 
+    "children": [
+      {
+        "name": "242828", 
+        "children": [
+          {
+            "name": "88215", 
+            "size": 494
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "88215", 
+        "children": [
+          {
+            "name": "29580", 
+            "size": 495
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Proteobacteria ", 
+    "children": [
+      {
+        "name": "32045", 
+        "children": [
+          {
+            "name": "1224", 
+            "size": 496
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Pseudomonadales bacterium ", 
+    "children": [
+      {
+        "name": "332614", 
+        "children": [
+          {
+            "name": "97500", 
+            "size": 497
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "97500", 
+        "children": [
+          {
+            "name": "72274", 
+            "size": 498
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus paracasei ", 
+    "children": [
+      {
+        "name": "1597", 
+        "children": [
+          {
+            "name": "655183", 
+            "size": 499
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "89279", 
+        "children": [
+          {
+            "name": "237", 
+            "size": 500
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Riemerella ", 
+    "children": [
+      {
+        "name": "34084", 
+        "children": [
+          {
+            "name": "49546", 
+            "size": 501
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Helicobacter ", 
+    "children": [
+      {
+        "name": "209", 
+        "children": [
+          {
+            "name": "72293", 
+            "size": 502
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Lactococcus sp. ", 
+    "children": [
+      {
+        "name": "167973", 
+        "children": [
+          {
+            "name": "89277", 
+            "size": 503
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified pseudomonads ", 
+    "children": [
+      {
+        "name": "45359", 
+        "children": [
+          {
+            "name": "32045", 
+            "size": 504
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Cyanobacterium sp. ", 
+    "children": [
+      {
+        "name": "751952", 
+        "children": [
+          {
+            "name": "751951", 
+            "size": 505
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Synechococcus ", 
+    "children": [
+      {
+        "name": "1129", 
+        "children": [
+          {
+            "name": "1118", 
+            "size": 506
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Phormidium ", 
+    "children": [
+      {
+        "name": "1198", 
+        "children": [
+          {
+            "name": "1150", 
+            "size": 507
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Arsenicicoccus ", 
+    "children": [
+      {
+        "name": "267408", 
+        "children": [
+          {
+            "name": "85021", 
+            "size": 508
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Betaproteobacteria ", 
+    "children": [
+      {
+        "name": "119066", 
+        "children": [
+          {
+            "name": "28216", 
+            "size": 509
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Fusobacteria bacterium ", 
+    "children": [
+      {
+        "name": "174329", 
+        "children": [
+          {
+            "name": "135062", 
+            "size": 510
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "135062", 
+        "children": [
+          {
+            "name": "32066", 
+            "size": 511
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dechloromonas sp. HZ ", 
+    "children": [
+      {
+        "name": "188737", 
+        "children": [
+          {
+            "name": "73029", 
+            "size": 512
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Vibrionaceae ", 
+    "children": [
+      {
+        "name": "641", 
+        "children": [
+          {
+            "name": "135623", 
+            "size": 513
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Vibrionales ", 
+    "children": [
+      {
+        "name": "135623", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 514
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostoc gasicomitatum ", 
+    "children": [
+      {
+        "name": "115778", 
+        "children": [
+          {
+            "name": "1243", 
+            "size": 515
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Enterococcus faecalis ", 
+    "children": [
+      {
+        "name": "1351", 
+        "children": [
+          {
+            "name": "1350", 
+            "size": 516
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus paracasei subsp. paracasei ", 
+    "children": [
+      {
+        "name": "47714", 
+        "children": [
+          {
+            "name": "1597", 
+            "size": 517
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Synergistetes ", 
+    "children": [
+      {
+        "name": "508458", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 518
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Burkholderia sp. ", 
+    "children": [
+      {
+        "name": "188058", 
+        "children": [
+          {
+            "name": "77118", 
+            "size": 519
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "77118", 
+        "children": [
+          {
+            "name": "32008", 
+            "size": 520
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Vibrio ", 
+    "children": [
+      {
+        "name": "662", 
+        "children": [
+          {
+            "name": "641", 
+            "size": 521
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "135095", 
+        "children": [
+          {
+            "name": "29465", 
+            "size": 522
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus casei ", 
+    "children": [
+      {
+        "name": "1582", 
+        "children": [
+          {
+            "name": "655183", 
+            "size": 523
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Hyphomicrobiaceae bacterium ", 
+    "children": [
+      {
+        "name": "218023", 
+        "children": [
+          {
+            "name": "218021", 
+            "size": 524
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas plecoglossicida ", 
+    "children": [
+      {
+        "name": "70775", 
+        "children": [
+          {
+            "name": "136845", 
+            "size": 525
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas stutzeri group ", 
+    "children": [
+      {
+        "name": "136846", 
+        "children": [
+          {
+            "name": "286", 
+            "size": 526
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Pelomonas sp. ", 
+    "children": [
+      {
+        "name": "360909", 
+        "children": [
+          {
+            "name": "360908", 
+            "size": 527
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Chlorobi bacterium ", 
+    "children": [
+      {
+        "name": "156405", 
+        "children": [
+          {
+            "name": "51233", 
+            "size": 528
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Mycobacterium chelonae group ", 
+    "children": [
+      {
+        "name": "670516", 
+        "children": [
+          {
+            "name": "1763", 
+            "size": 529
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas aeruginosa ", 
+    "children": [
+      {
+        "name": "287", 
+        "children": [
+          {
+            "name": "136841", 
+            "size": 530
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Brevundimonas sp. ", 
+    "children": [
+      {
+        "name": "213418", 
+        "children": [
+          {
+            "name": "114552", 
+            "size": 531
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Oxalobacteraceae bacterium ", 
+    "children": [
+      {
+        "name": "253871", 
+        "children": [
+          {
+            "name": "321929", 
+            "size": 532
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "321929", 
+        "children": [
+          {
+            "name": "75682", 
+            "size": 533
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodobacter ", 
+    "children": [
+      {
+        "name": "1060", 
+        "children": [
+          {
+            "name": "31989", 
+            "size": 534
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "134213", 
+        "children": [
+          {
+            "name": "1016", 
+            "size": 535
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Carnobacteriaceae bacterium ", 
+    "children": [
+      {
+        "name": "349922", 
+        "children": [
+          {
+            "name": "349921", 
+            "size": 536
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "349921", 
+        "children": [
+          {
+            "name": "186828", 
+            "size": 537
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rhodococcus sp. ", 
+    "children": [
+      {
+        "name": "194249", 
+        "children": [
+          {
+            "name": "129699", 
+            "size": 538
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "129699", 
+        "children": [
+          {
+            "name": "1827", 
+            "size": 539
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Mycobacterium sp. ", 
+    "children": [
+      {
+        "name": "171292", 
+        "children": [
+          {
+            "name": "97818", 
+            "size": 540
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "97818", 
+        "children": [
+          {
+            "name": "1763", 
+            "size": 541
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Candidatus Vidania fulgoroideae ", 
+    "children": [
+      {
+        "name": "881286", 
+        "children": [
+          {
+            "name": "1191175", 
+            "size": 542
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Enterococcus sp. ", 
+    "children": [
+      {
+        "name": "167972", 
+        "children": [
+          {
+            "name": "167971", 
+            "size": 543
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "167971", 
+        "children": [
+          {
+            "name": "1350", 
+            "size": 544
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Micrococcus luteus ", 
+    "children": [
+      {
+        "name": "1270", 
+        "children": [
+          {
+            "name": "1269", 
+            "size": 545
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Myxococcales bacterium ", 
+    "children": [
+      {
+        "name": "253830", 
+        "children": [
+          {
+            "name": "65121", 
+            "size": 546
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "65121", 
+        "children": [
+          {
+            "name": "29", 
+            "size": 547
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Pseudomonadaceae bacterium ", 
+    "children": [
+      {
+        "name": "220135", 
+        "children": [
+          {
+            "name": "220134", 
+            "size": 548
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "220134", 
+        "children": [
+          {
+            "name": "135621", 
+            "size": 549
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Thermomicrobium sp. ", 
+    "children": [
+      {
+        "name": "158795", 
+        "children": [
+          {
+            "name": "158794", 
+            "size": 550
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermomicrobiaceae ", 
+    "children": [
+      {
+        "name": "189777", 
+        "children": [
+          {
+            "name": "189776", 
+            "size": 551
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermomicrobiales ", 
+    "children": [
+      {
+        "name": "189776", 
+        "children": [
+          {
+            "name": "189775", 
+            "size": 552
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermomicrobium ", 
+    "children": [
+      {
+        "name": "499", 
+        "children": [
+          {
+            "name": "189777", 
+            "size": 553
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "158794", 
+        "children": [
+          {
+            "name": "499", 
+            "size": 554
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Massilia sp. ", 
+    "children": [
+      {
+        "name": "169973", 
+        "children": [
+          {
+            "name": "169972", 
+            "size": 555
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus subtilis ", 
+    "children": [
+      {
+        "name": "1423", 
+        "children": [
+          {
+            "name": "653685", 
+            "size": 556
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas sp. ", 
+    "children": [
+      {
+        "name": "306", 
+        "children": [
+          {
+            "name": "45359", 
+            "size": 557
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Microbacterium sp. ", 
+    "children": [
+      {
+        "name": "191216", 
+        "children": [
+          {
+            "name": "163527", 
+            "size": 558
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Cyanobacteria ", 
+    "children": [
+      {
+        "name": "34079", 
+        "children": [
+          {
+            "name": "1117", 
+            "size": 559
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nitrospirae ", 
+    "children": [
+      {
+        "name": "40117", 
+        "children": [
+          {
+            "name": "2", 
+            "size": 560
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nitrosomonadales ", 
+    "children": [
+      {
+        "name": "32003", 
+        "children": [
+          {
+            "name": "28216", 
+            "size": 561
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Nitrosomonadaceae ", 
+    "children": [
+      {
+        "name": "206379", 
+        "children": [
+          {
+            "name": "32003", 
+            "size": 562
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Staphylococcus aureus ", 
+    "children": [
+      {
+        "name": "1280", 
+        "children": [
+          {
+            "name": "1279", 
+            "size": 563
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "84374", 
+        "children": [
+          {
+            "name": "838", 
+            "size": 564
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Staphylococcus epidermidis ", 
+    "children": [
+      {
+        "name": "1282", 
+        "children": [
+          {
+            "name": "1279", 
+            "size": 565
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Sphingomonadaceae bacterium ", 
+    "children": [
+      {
+        "name": "169976", 
+        "children": [
+          {
+            "name": "135644", 
+            "size": 566
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "135644", 
+        "children": [
+          {
+            "name": "41297", 
+            "size": 567
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rubrobacteridae bacterium ", 
+    "children": [
+      {
+        "name": "211429", 
+        "children": [
+          {
+            "name": "117608", 
+            "size": 568
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Actinobacteria ", 
+    "children": [
+      {
+        "name": "52018", 
+        "children": [
+          {
+            "name": "1760", 
+            "size": 569
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Caulobacter sp. ", 
+    "children": [
+      {
+        "name": "158749", 
+        "children": [
+          {
+            "name": "131546", 
+            "size": 570
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "131546", 
+        "children": [
+          {
+            "name": "75", 
+            "size": 571
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Paracraurococcus ", 
+    "children": [
+      {
+        "name": "77674", 
+        "children": [
+          {
+            "name": "433", 
+            "size": 572
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Acidovorax sp. ", 
+    "children": [
+      {
+        "name": "158751", 
+        "children": [
+          {
+            "name": "158750", 
+            "size": 573
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "447825", 
+        "children": [
+          {
+            "name": "508458", 
+            "size": 574
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Actinobacteria (miscellaneous) ", 
+    "children": [
+      {
+        "name": "78537", 
+        "children": [
+          {
+            "name": "52018", 
+            "size": 575
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "117769", 
+        "children": [
+          {
+            "name": "200666", 
+            "size": 576
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus mutans ", 
+    "children": [
+      {
+        "name": "1309", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 577
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Oceanospirillaceae ", 
+    "children": [
+      {
+        "name": "135620", 
+        "children": [
+          {
+            "name": "135619", 
+            "size": 578
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas sp. VS05_13 ", 
+    "children": [
+      {
+        "name": "670996", 
+        "children": [
+          {
+            "name": "286", 
+            "size": 579
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Carnobacteriaceae bacterium KVD-6-1959", 
+    "children": [
+      {
+        "name": "384173", 
+        "children": [
+          {
+            "name": "268966", 
+            "size": 580
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Carnobacteriaceae ", 
+    "children": [
+      {
+        "name": "268966", 
+        "children": [
+          {
+            "name": "186828", 
+            "size": 581
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Lactobacillales bacterium ", 
+    "children": [
+      {
+        "name": "339167", 
+        "children": [
+          {
+            "name": "339166", 
+            "size": 582
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "339166", 
+        "children": [
+          {
+            "name": "186826", 
+            "size": 583
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Afipia genosp. 12 ", 
+    "children": [
+      {
+        "name": "57044", 
+        "children": [
+          {
+            "name": "1033", 
+            "size": 584
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acinetobacter calcoaceticus/baumannii complex ", 
+    "children": [
+      {
+        "name": "909768", 
+        "children": [
+          {
+            "name": "469", 
+            "size": 585
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Aerococcus viridans ", 
+    "children": [
+      {
+        "name": "1377", 
+        "children": [
+          {
+            "name": "1375", 
+            "size": 586
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas syringae group ", 
+    "children": [
+      {
+        "name": "136849", 
+        "children": [
+          {
+            "name": "286", 
+            "size": 587
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudoxanthomonas ", 
+    "children": [
+      {
+        "name": "83618", 
+        "children": [
+          {
+            "name": "32033", 
+            "size": 588
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus thuringiensis ", 
+    "children": [
+      {
+        "name": "1428", 
+        "children": [
+          {
+            "name": "86661", 
+            "size": 589
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Flavobacterium sp. ", 
+    "children": [
+      {
+        "name": "165435", 
+        "children": [
+          {
+            "name": "89279", 
+            "size": 590
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Paracraurococcus sp. ", 
+    "children": [
+      {
+        "name": "338954", 
+        "children": [
+          {
+            "name": "338953", 
+            "size": 591
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Marmoricola ", 
+    "children": [
+      {
+        "name": "86795", 
+        "children": [
+          {
+            "name": "85015", 
+            "size": 592
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Agrobacterium sp. ", 
+    "children": [
+      {
+        "name": "157277", 
+        "children": [
+          {
+            "name": "67768", 
+            "size": 593
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Mollicutes bacterium ", 
+    "children": [
+      {
+        "name": "220137", 
+        "children": [
+          {
+            "name": "220136", 
+            "size": 594
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "220136", 
+        "children": [
+          {
+            "name": "31969", 
+            "size": 595
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Novosphingobium sp. ", 
+    "children": [
+      {
+        "name": "292277", 
+        "children": [
+          {
+            "name": "292276", 
+            "size": 596
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Staphylococcaceae ", 
+    "children": [
+      {
+        "name": "111016", 
+        "children": [
+          {
+            "name": "90964", 
+            "size": 597
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Porphyromonadaceae bacterium ", 
+    "children": [
+      {
+        "name": "348578", 
+        "children": [
+          {
+            "name": "348577", 
+            "size": 598
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Kocuria rosea ", 
+    "children": [
+      {
+        "name": "1275", 
+        "children": [
+          {
+            "name": "57493", 
+            "size": 599
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudoalteromonadaceae ", 
+    "children": [
+      {
+        "name": "267888", 
+        "children": [
+          {
+            "name": "135622", 
+            "size": 600
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudoalteromonas ", 
+    "children": [
+      {
+        "name": "53246", 
+        "children": [
+          {
+            "name": "267888", 
+            "size": 601
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Sphingobacteria bacterium ", 
+    "children": [
+      {
+        "name": "246143", 
+        "children": [
+          {
+            "name": "246142", 
+            "size": 602
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactobacillus delbrueckii subsp. lactis ", 
+    "children": [
+      {
+        "name": "29397", 
+        "children": [
+          {
+            "name": "1584", 
+            "size": 603
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Sphingobacteriales bacterium ", 
+    "children": [
+      {
+        "name": "212696", 
+        "children": [
+          {
+            "name": "117769", 
+            "size": 604
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Geodermatophilus ", 
+    "children": [
+      {
+        "name": "1860", 
+        "children": [
+          {
+            "name": "85030", 
+            "size": 605
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Nocardioides sp. ", 
+    "children": [
+      {
+        "name": "198441", 
+        "children": [
+          {
+            "name": "198440", 
+            "size": 606
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "198440", 
+        "children": [
+          {
+            "name": "1839", 
+            "size": 607
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Duganella ", 
+    "children": [
+      {
+        "name": "75654", 
+        "children": [
+          {
+            "name": "75682", 
+            "size": 608
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Clostridiaceae bacterium ", 
+    "children": [
+      {
+        "name": "195049", 
+        "children": [
+          {
+            "name": "195047", 
+            "size": 609
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas corrugata ", 
+    "children": [
+      {
+        "name": "47879", 
+        "children": [
+          {
+            "name": "136843", 
+            "size": 610
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Pedobacter sp. ", 
+    "children": [
+      {
+        "name": "246139", 
+        "children": [
+          {
+            "name": "163530", 
+            "size": 611
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Cytophagaceae ", 
+    "children": [
+      {
+        "name": "94253", 
+        "children": [
+          {
+            "name": "89373", 
+            "size": 612
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leptothrix ", 
+    "children": [
+      {
+        "name": "88", 
+        "children": [
+          {
+            "name": "224471", 
+            "size": 613
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Betaproteobacteria (miscellaneous) ", 
+    "children": [
+      {
+        "name": "33809", 
+        "children": [
+          {
+            "name": "119066", 
+            "size": 614
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Polaromonas ", 
+    "children": [
+      {
+        "name": "52972", 
+        "children": [
+          {
+            "name": "80864", 
+            "size": 615
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas veronii ", 
+    "children": [
+      {
+        "name": "76761", 
+        "children": [
+          {
+            "name": "136843", 
+            "size": 616
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Nitrospirae bacterium ", 
+    "children": [
+      {
+        "name": "170969", 
+        "children": [
+          {
+            "name": "67798", 
+            "size": 617
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Sphaerotilus ", 
+    "children": [
+      {
+        "name": "34102", 
+        "children": [
+          {
+            "name": "224471", 
+            "size": 618
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bifidobacterium sp. ", 
+    "children": [
+      {
+        "name": "165187", 
+        "children": [
+          {
+            "name": "135024", 
+            "size": 619
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "135024", 
+        "children": [
+          {
+            "name": "1678", 
+            "size": 620
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Brevibacterium sp. ", 
+    "children": [
+      {
+        "name": "189678", 
+        "children": [
+          {
+            "name": "189677", 
+            "size": 621
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "189677", 
+        "children": [
+          {
+            "name": "1696", 
+            "size": 622
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Synechococcus sp. ", 
+    "children": [
+      {
+        "name": "154535", 
+        "children": [
+          {
+            "name": "127785", 
+            "size": 623
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "127785", 
+        "children": [
+          {
+            "name": "1129", 
+            "size": 624
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Propionibacteriaceae bacterium ", 
+    "children": [
+      {
+        "name": "257457", 
+        "children": [
+          {
+            "name": "257456", 
+            "size": 625
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "257456", 
+        "children": [
+          {
+            "name": "31957", 
+            "size": 626
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Moraxellaceae bacterium ", 
+    "children": [
+      {
+        "name": "195042", 
+        "children": [
+          {
+            "name": "75924", 
+            "size": 627
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "[Clostridium] innocuum ", 
+    "children": [
+      {
+        "name": "1522", 
+        "children": [
+          {
+            "name": "1505663", 
+            "size": 628
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas stutzeri ", 
+    "children": [
+      {
+        "name": "316", 
+        "children": [
+          {
+            "name": "578833", 
+            "size": 629
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas stutzeri subgroup ", 
+    "children": [
+      {
+        "name": "578833", 
+        "children": [
+          {
+            "name": "136846", 
+            "size": 630
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Leuconostoc sp. ", 
+    "children": [
+      {
+        "name": "173262", 
+        "children": [
+          {
+            "name": "69948", 
+            "size": 631
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "69948", 
+        "children": [
+          {
+            "name": "1243", 
+            "size": 632
+          }
+        ]
+      }, 
+      {
+        "name": "135058", 
+        "children": [
+          {
+            "name": "32067", 
+            "size": 633
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Mitsuaria ", 
+    "children": [
+      {
+        "name": "65047", 
+        "children": [
+          {
+            "name": "224471", 
+            "size": 634
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Sphingomonadales bacterium ", 
+    "children": [
+      {
+        "name": "293405", 
+        "children": [
+          {
+            "name": "293404", 
+            "size": 635
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "293404", 
+        "children": [
+          {
+            "name": "204457", 
+            "size": 636
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Kocuria rhizophila ", 
+    "children": [
+      {
+        "name": "72000", 
+        "children": [
+          {
+            "name": "57493", 
+            "size": 637
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "97940", 
+        "children": [
+          {
+            "name": "40323", 
+            "size": 638
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Ruminococcaceae bacterium ", 
+    "children": [
+      {
+        "name": "541003", 
+        "children": [
+          {
+            "name": "541002", 
+            "size": 639
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Knoellia ", 
+    "children": [
+      {
+        "name": "136099", 
+        "children": [
+          {
+            "name": "85021", 
+            "size": 640
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Fusobacterium sp. ", 
+    "children": [
+      {
+        "name": "159267", 
+        "children": [
+          {
+            "name": "127783", 
+            "size": 641
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas syringae ", 
+    "children": [
+      {
+        "name": "317", 
+        "children": [
+          {
+            "name": "251695", 
+            "size": 642
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas syringae group genomosp. 1 ", 
+    "children": [
+      {
+        "name": "251695", 
+        "children": [
+          {
+            "name": "136849", 
+            "size": 643
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Aeromonadaceae bacterium ", 
+    "children": [
+      {
+        "name": "197504", 
+        "children": [
+          {
+            "name": "197503", 
+            "size": 644
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Desulfuromonadales ", 
+    "children": [
+      {
+        "name": "69541", 
+        "children": [
+          {
+            "name": "28221", 
+            "size": 645
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Prevotella sp. ", 
+    "children": [
+      {
+        "name": "159272", 
+        "children": [
+          {
+            "name": "84374", 
+            "size": 646
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Paracoccus sp. ", 
+    "children": [
+      {
+        "name": "189685", 
+        "children": [
+          {
+            "name": "129688", 
+            "size": 647
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "129688", 
+        "children": [
+          {
+            "name": "265", 
+            "size": 648
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Frankiaceae ", 
+    "children": [
+      {
+        "name": "74712", 
+        "children": [
+          {
+            "name": "85013", 
+            "size": 649
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Frankia ", 
+    "children": [
+      {
+        "name": "1854", 
+        "children": [
+          {
+            "name": "74712", 
+            "size": 650
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thermoanaerobacterales ", 
+    "children": [
+      {
+        "name": "68295", 
+        "children": [
+          {
+            "name": "186801", 
+            "size": 651
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Flavobacteriia bacterium ", 
+    "children": [
+      {
+        "name": "212695", 
+        "children": [
+          {
+            "name": "80843", 
+            "size": 652
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Nostocales cyanobacterium ", 
+    "children": [
+      {
+        "name": "183213", 
+        "children": [
+          {
+            "name": "183212", 
+            "size": 653
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "183212", 
+        "children": [
+          {
+            "name": "1161", 
+            "size": 654
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Roseobacter sp. ", 
+    "children": [
+      {
+        "name": "114847", 
+        "children": [
+          {
+            "name": "98187", 
+            "size": 655
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas citronellolis ", 
+    "children": [
+      {
+        "name": "53408", 
+        "children": [
+          {
+            "name": "136841", 
+            "size": 656
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Geobacteraceae ", 
+    "children": [
+      {
+        "name": "213422", 
+        "children": [
+          {
+            "name": "69541", 
+            "size": 657
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Veillonella sp. ", 
+    "children": [
+      {
+        "name": "159268", 
+        "children": [
+          {
+            "name": "135095", 
+            "size": 658
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acinetobacter calcoaceticus ", 
+    "children": [
+      {
+        "name": "471", 
+        "children": [
+          {
+            "name": "909768", 
+            "size": 659
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "163536", 
+        "children": [
+          {
+            "name": "88", 
+            "size": 660
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Friedmanniella sp. ", 
+    "children": [
+      {
+        "name": "335381", 
+        "children": [
+          {
+            "name": "335380", 
+            "size": 661
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Hydrogenophaga sp. ", 
+    "children": [
+      {
+        "name": "199683", 
+        "children": [
+          {
+            "name": "199682", 
+            "size": 662
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Hydrogenophaga ", 
+    "children": [
+      {
+        "name": "47420", 
+        "children": [
+          {
+            "name": "80864", 
+            "size": 663
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "199682", 
+        "children": [
+          {
+            "name": "47420", 
+            "size": 664
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Acinetobacter baumannii ", 
+    "children": [
+      {
+        "name": "470", 
+        "children": [
+          {
+            "name": "909768", 
+            "size": 665
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Synergistetes bacterium ", 
+    "children": [
+      {
+        "name": "447826", 
+        "children": [
+          {
+            "name": "447825", 
+            "size": 666
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Dialister ", 
+    "children": [
+      {
+        "name": "39948", 
+        "children": [
+          {
+            "name": "31977", 
+            "size": 667
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Nitrosomonadaceae bacterium ", 
+    "children": [
+      {
+        "name": "207829", 
+        "children": [
+          {
+            "name": "47949", 
+            "size": 668
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "47949", 
+        "children": [
+          {
+            "name": "206379", 
+            "size": 669
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Phyllobacterium sp. ", 
+    "children": [
+      {
+        "name": "253813", 
+        "children": [
+          {
+            "name": "75673", 
+            "size": 670
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Methylobacteriaceae bacterium ", 
+    "children": [
+      {
+        "name": "238199", 
+        "children": [
+          {
+            "name": "238198", 
+            "size": 671
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Veillonellaceae bacterium ", 
+    "children": [
+      {
+        "name": "194923", 
+        "children": [
+          {
+            "name": "135094", 
+            "size": 672
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "135094", 
+        "children": [
+          {
+            "name": "31977", 
+            "size": 673
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Methylibium sp. ", 
+    "children": [
+      {
+        "name": "381093", 
+        "children": [
+          {
+            "name": "381092", 
+            "size": 674
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Methylibium ", 
+    "children": [
+      {
+        "name": "316612", 
+        "children": [
+          {
+            "name": "224471", 
+            "size": 675
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "381092", 
+        "children": [
+          {
+            "name": "316612", 
+            "size": 676
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rhizobium sp. ", 
+    "children": [
+      {
+        "name": "155567", 
+        "children": [
+          {
+            "name": "129696", 
+            "size": 677
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "129696", 
+        "children": [
+          {
+            "name": "379", 
+            "size": 678
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Dyadobacter sp. ", 
+    "children": [
+      {
+        "name": "443075", 
+        "children": [
+          {
+            "name": "443074", 
+            "size": 679
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Wautersiella ", 
+    "children": [
+      {
+        "name": "343873", 
+        "children": [
+          {
+            "name": "49546", 
+            "size": 680
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Spirochaetes bacterium ", 
+    "children": [
+      {
+        "name": "460511", 
+        "children": [
+          {
+            "name": "460510", 
+            "size": 681
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Clostridium sardiniense ", 
+    "children": [
+      {
+        "name": "29369", 
+        "children": [
+          {
+            "name": "1485", 
+            "size": 682
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rothia sp. ", 
+    "children": [
+      {
+        "name": "316088", 
+        "children": [
+          {
+            "name": "248710", 
+            "size": 683
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "248710", 
+        "children": [
+          {
+            "name": "32207", 
+            "size": 684
+          }
+        ]
+      }, 
+      {
+        "name": "75667", 
+        "children": [
+          {
+            "name": "1378", 
+            "size": 685
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteroides thetaiotaomicron ", 
+    "children": [
+      {
+        "name": "818", 
+        "children": [
+          {
+            "name": "816", 
+            "size": 686
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Staphylococcaceae bacterium ", 
+    "children": [
+      {
+        "name": "370803", 
+        "children": [
+          {
+            "name": "370802", 
+            "size": 687
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "370802", 
+        "children": [
+          {
+            "name": "90964", 
+            "size": 688
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Moraxellaceae ", 
+    "children": [
+      {
+        "name": "54393", 
+        "children": [
+          {
+            "name": "468", 
+            "size": 689
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Geodermatophilus sp. ", 
+    "children": [
+      {
+        "name": "332038", 
+        "children": [
+          {
+            "name": "332037", 
+            "size": 690
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "332037", 
+        "children": [
+          {
+            "name": "1860", 
+            "size": 691
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Kineosporia sp. ", 
+    "children": [
+      {
+        "name": "211966", 
+        "children": [
+          {
+            "name": "211965", 
+            "size": 692
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas synxantha ", 
+    "children": [
+      {
+        "name": "47883", 
+        "children": [
+          {
+            "name": "136843", 
+            "size": 693
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Capnocytophaga sp. ", 
+    "children": [
+      {
+        "name": "159273", 
+        "children": [
+          {
+            "name": "134213", 
+            "size": 694
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostoc citreum ", 
+    "children": [
+      {
+        "name": "33964", 
+        "children": [
+          {
+            "name": "1243", 
+            "size": 695
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Aquificae bacterium ", 
+    "children": [
+      {
+        "name": "453415", 
+        "children": [
+          {
+            "name": "453414", 
+            "size": 696
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Rhodococcus sp. 'Iso St 1' ", 
+    "children": [
+      {
+        "name": "457085", 
+        "children": [
+          {
+            "name": "1827", 
+            "size": 697
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Polaromonas sp. ", 
+    "children": [
+      {
+        "name": "225016", 
+        "children": [
+          {
+            "name": "140984", 
+            "size": 698
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "140984", 
+        "children": [
+          {
+            "name": "52972", 
+            "size": 699
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudoclavibacter helvolus ", 
+    "children": [
+      {
+        "name": "255205", 
+        "children": [
+          {
+            "name": "255204", 
+            "size": 700
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Caulobacterales bacterium ", 
+    "children": [
+      {
+        "name": "395523", 
+        "children": [
+          {
+            "name": "395522", 
+            "size": 701
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "395522", 
+        "children": [
+          {
+            "name": "204458", 
+            "size": 702
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rhodospirillales bacterium ", 
+    "children": [
+      {
+        "name": "296830", 
+        "children": [
+          {
+            "name": "296829", 
+            "size": 703
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Cellulomonas sp. ", 
+    "children": [
+      {
+        "name": "189682", 
+        "children": [
+          {
+            "name": "189681", 
+            "size": 704
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "189681", 
+        "children": [
+          {
+            "name": "1707", 
+            "size": 705
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Aerococcus sp. ", 
+    "children": [
+      {
+        "name": "189667", 
+        "children": [
+          {
+            "name": "189666", 
+            "size": 706
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "189666", 
+        "children": [
+          {
+            "name": "1375", 
+            "size": 707
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Lactococcus garvieae ", 
+    "children": [
+      {
+        "name": "1363", 
+        "children": [
+          {
+            "name": "1357", 
+            "size": 708
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "[Clostridium] difficile ", 
+    "children": [
+      {
+        "name": "1496", 
+        "children": [
+          {
+            "name": "1481960", 
+            "size": 709
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Acidobacterium sp. ", 
+    "children": [
+      {
+        "name": "114706", 
+        "children": [
+          {
+            "name": "114705", 
+            "size": 710
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacillus megaterium ", 
+    "children": [
+      {
+        "name": "1404", 
+        "children": [
+          {
+            "name": "1386", 
+            "size": 711
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Ruminococcus ", 
+    "children": [
+      {
+        "name": "1263", 
+        "children": [
+          {
+            "name": "541000", 
+            "size": 712
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Geobacter sp. ", 
+    "children": [
+      {
+        "name": "186741", 
+        "children": [
+          {
+            "name": "65831", 
+            "size": 713
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Geobacter ", 
+    "children": [
+      {
+        "name": "28231", 
+        "children": [
+          {
+            "name": "213422", 
+            "size": 714
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "65831", 
+        "children": [
+          {
+            "name": "28231", 
+            "size": 715
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Gemella sp. ", 
+    "children": [
+      {
+        "name": "254352", 
+        "children": [
+          {
+            "name": "75667", 
+            "size": 716
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Enterobacteriaceae bacterium ", 
+    "children": [
+      {
+        "name": "218034", 
+        "children": [
+          {
+            "name": "47938", 
+            "size": 717
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "47938", 
+        "children": [
+          {
+            "name": "543", 
+            "size": 718
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Arthrobacter sp. ", 
+    "children": [
+      {
+        "name": "114050", 
+        "children": [
+          {
+            "name": "89306", 
+            "size": 719
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "89306", 
+        "children": [
+          {
+            "name": "1663", 
+            "size": 720
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Propionibacterineae bacterium ", 
+    "children": [
+      {
+        "name": "197514", 
+        "children": [
+          {
+            "name": "197513", 
+            "size": 721
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "197513", 
+        "children": [
+          {
+            "name": "85009", 
+            "size": 722
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Blastococcus sp. ", 
+    "children": [
+      {
+        "name": "217144", 
+        "children": [
+          {
+            "name": "231479", 
+            "size": 723
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "231479", 
+        "children": [
+          {
+            "name": "38501", 
+            "size": 724
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostoc garlicum ", 
+    "children": [
+      {
+        "name": "255248", 
+        "children": [
+          {
+            "name": "1243", 
+            "size": 725
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Neisseriaceae bacterium ", 
+    "children": [
+      {
+        "name": "208548", 
+        "children": [
+          {
+            "name": "208547", 
+            "size": 726
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rhodobacteraceae bacterium ", 
+    "children": [
+      {
+        "name": "157276", 
+        "children": [
+          {
+            "name": "58841", 
+            "size": 727
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Staphylococcus sp. enrichment culture clone S1_22 ", 
+    "children": [
+      {
+        "name": "1185833", 
+        "children": [
+          {
+            "name": "129707", 
+            "size": 728
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Weissella cibaria ", 
+    "children": [
+      {
+        "name": "137591", 
+        "children": [
+          {
+            "name": "46255", 
+            "size": 729
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Actinoplanes sp. ", 
+    "children": [
+      {
+        "name": "412396", 
+        "children": [
+          {
+            "name": "412395", 
+            "size": 730
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Streptomycetaceae ", 
+    "children": [
+      {
+        "name": "234292", 
+        "children": [
+          {
+            "name": "2062", 
+            "size": 731
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptomycetaceae bacterium C2 ", 
+    "children": [
+      {
+        "name": "1109000", 
+        "children": [
+          {
+            "name": "234292", 
+            "size": 732
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Methylobacter sp. ", 
+    "children": [
+      {
+        "name": "153499", 
+        "children": [
+          {
+            "name": "107642", 
+            "size": 733
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Methylococcales ", 
+    "children": [
+      {
+        "name": "135618", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 734
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Methylococcaceae ", 
+    "children": [
+      {
+        "name": "403", 
+        "children": [
+          {
+            "name": "135618", 
+            "size": 735
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Methylobacter ", 
+    "children": [
+      {
+        "name": "429", 
+        "children": [
+          {
+            "name": "403", 
+            "size": 736
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "107642", 
+        "children": [
+          {
+            "name": "429", 
+            "size": 737
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "unclassified Flavobacteriaceae ", 
+    "children": [
+      {
+        "name": "61432", 
+        "children": [
+          {
+            "name": "49546", 
+            "size": 738
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Selenomonas sp. ", 
+    "children": [
+      {
+        "name": "159275", 
+        "children": [
+          {
+            "name": "89312", 
+            "size": 739
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "89312", 
+        "children": [
+          {
+            "name": "970", 
+            "size": 740
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Mycobacteriaceae bacterium ", 
+    "children": [
+      {
+        "name": "257460", 
+        "children": [
+          {
+            "name": "257459", 
+            "size": 741
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bradyrhizobiaceae bacterium ", 
+    "children": [
+      {
+        "name": "181009", 
+        "children": [
+          {
+            "name": "95757", 
+            "size": 742
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "257459", 
+        "children": [
+          {
+            "name": "1762", 
+            "size": 743
+          }
+        ]
+      }, 
+      {
+        "name": "95757", 
+        "children": [
+          {
+            "name": "41294", 
+            "size": 744
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rhodospirillaceae bacterium ", 
+    "children": [
+      {
+        "name": "352351", 
+        "children": [
+          {
+            "name": "65115", 
+            "size": 745
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "65115", 
+        "children": [
+          {
+            "name": "41295", 
+            "size": 746
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Desulfobacterales ", 
+    "children": [
+      {
+        "name": "213118", 
+        "children": [
+          {
+            "name": "28221", 
+            "size": 747
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Rhizobiaceae bacterium ", 
+    "children": [
+      {
+        "name": "271151", 
+        "children": [
+          {
+            "name": "130875", 
+            "size": 748
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "130875", 
+        "children": [
+          {
+            "name": "82115", 
+            "size": 749
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Leifsonia sp. ", 
+    "children": [
+      {
+        "name": "340359", 
+        "children": [
+          {
+            "name": "340358", 
+            "size": 750
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Actinobacteridae bacterium ", 
+    "children": [
+      {
+        "name": "197512", 
+        "children": [
+          {
+            "name": "117712", 
+            "size": 751
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Tetrasphaera ", 
+    "children": [
+      {
+        "name": "99479", 
+        "children": [
+          {
+            "name": "85021", 
+            "size": 752
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus sp. oral clone ASCB12 ", 
+    "children": [
+      {
+        "name": "325789", 
+        "children": [
+          {
+            "name": "83426", 
+            "size": 753
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Streptococcus equinus ", 
+    "children": [
+      {
+        "name": "1335", 
+        "children": [
+          {
+            "name": "1301", 
+            "size": 754
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Enterobacter ", 
+    "children": [
+      {
+        "name": "547", 
+        "children": [
+          {
+            "name": "543", 
+            "size": 755
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Candidatus Halomonas phosphatis ", 
+    "children": [
+      {
+        "name": "1107859", 
+        "children": [
+          {
+            "name": "2745", 
+            "size": 756
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Acidobacteriales bacterium ", 
+    "children": [
+      {
+        "name": "190530", 
+        "children": [
+          {
+            "name": "124728", 
+            "size": 757
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "124728", 
+        "children": [
+          {
+            "name": "204433", 
+            "size": 758
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Microvirgula aerodenitrificans ", 
+    "children": [
+      {
+        "name": "57480", 
+        "children": [
+          {
+            "name": "57479", 
+            "size": 759
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Leuconostoc pseudomesenteroides ", 
+    "children": [
+      {
+        "name": "33968", 
+        "children": [
+          {
+            "name": "1243", 
+            "size": 760
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Prosthecobacter sp. ", 
+    "children": [
+      {
+        "name": "522608", 
+        "children": [
+          {
+            "name": "522607", 
+            "size": 761
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Desulforhabdus sp. ", 
+    "children": [
+      {
+        "name": "543035", 
+        "children": [
+          {
+            "name": "543034", 
+            "size": 762
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Syntrophobacterales ", 
+    "children": [
+      {
+        "name": "213462", 
+        "children": [
+          {
+            "name": "28221", 
+            "size": 763
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Syntrophobacteraceae ", 
+    "children": [
+      {
+        "name": "213465", 
+        "children": [
+          {
+            "name": "213462", 
+            "size": 764
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Desulforhabdus ", 
+    "children": [
+      {
+        "name": "39840", 
+        "children": [
+          {
+            "name": "213465", 
+            "size": 765
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "543034", 
+        "children": [
+          {
+            "name": "39840", 
+            "size": 766
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Nitrobacter sp. ", 
+    "children": [
+      {
+        "name": "155911", 
+        "children": [
+          {
+            "name": "155910", 
+            "size": 767
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Haemophilus sp. ", 
+    "children": [
+      {
+        "name": "237779", 
+        "children": [
+          {
+            "name": "134229", 
+            "size": 768
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "134229", 
+        "children": [
+          {
+            "name": "724", 
+            "size": 769
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Microbacterium oxydans ", 
+    "children": [
+      {
+        "name": "82380", 
+        "children": [
+          {
+            "name": "33882", 
+            "size": 770
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Staphylococcus auricularis ", 
+    "children": [
+      {
+        "name": "29379", 
+        "children": [
+          {
+            "name": "1279", 
+            "size": 771
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured spirochete ", 
+    "children": [
+      {
+        "name": "156406", 
+        "children": [
+          {
+            "name": "56766", 
+            "size": 772
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "56766", 
+        "children": [
+          {
+            "name": "136", 
+            "size": 773
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Thiotrichales ", 
+    "children": [
+      {
+        "name": "72273", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 774
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Francisellaceae ", 
+    "children": [
+      {
+        "name": "34064", 
+        "children": [
+          {
+            "name": "72273", 
+            "size": 775
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Francisella ", 
+    "children": [
+      {
+        "name": "262", 
+        "children": [
+          {
+            "name": "34064", 
+            "size": 776
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Paenibacillus sp. ", 
+    "children": [
+      {
+        "name": "227322", 
+        "children": [
+          {
+            "name": "131548", 
+            "size": 777
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "131548", 
+        "children": [
+          {
+            "name": "44249", 
+            "size": 778
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Enterococcaceae bacterium ", 
+    "children": [
+      {
+        "name": "447058", 
+        "children": [
+          {
+            "name": "447057", 
+            "size": 779
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "447057", 
+        "children": [
+          {
+            "name": "81852", 
+            "size": 780
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Ideonella sp. ", 
+    "children": [
+      {
+        "name": "260759", 
+        "children": [
+          {
+            "name": "260758", 
+            "size": 781
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Pseudomonas oleovorans/pseudoalcaligenes group ", 
+    "children": [
+      {
+        "name": "1232139", 
+        "children": [
+          {
+            "name": "136841", 
+            "size": 782
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Leptotrichia sp. ", 
+    "children": [
+      {
+        "name": "159271", 
+        "children": [
+          {
+            "name": "135058", 
+            "size": 783
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacillaceae bacterium ", 
+    "children": [
+      {
+        "name": "197516", 
+        "children": [
+          {
+            "name": "197515", 
+            "size": 784
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Sphaerotilus sp. ", 
+    "children": [
+      {
+        "name": "474984", 
+        "children": [
+          {
+            "name": "474983", 
+            "size": 785
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "197515", 
+        "children": [
+          {
+            "name": "186817", 
+            "size": 786
+          }
+        ]
+      }, 
+      {
+        "name": "474983", 
+        "children": [
+          {
+            "name": "34102", 
+            "size": 787
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Chromatiales ", 
+    "children": [
+      {
+        "name": "135613", 
+        "children": [
+          {
+            "name": "1236", 
+            "size": 788
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Bacteroidetes/Chlorobi group bacterium ", 
+    "children": [
+      {
+        "name": "169977", 
+        "children": [
+          {
+            "name": "68346", 
+            "size": 789
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Helicobacter sp. 'liver 3' ", 
+    "children": [
+      {
+        "name": "93982", 
+        "children": [
+          {
+            "name": "209", 
+            "size": 790
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "environmental samples ", 
+    "children": [
+      {
+        "name": "68346", 
+        "children": [
+          {
+            "name": "68336", 
+            "size": 791
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Moraxella osloensis ", 
+    "children": [
+      {
+        "name": "34062", 
+        "children": [
+          {
+            "name": "46225", 
+            "size": 792
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "uncultured Streptomyces sp. ", 
+    "children": [
+      {
+        "name": "174707", 
+        "children": [
+          {
+            "name": "89304", 
+            "size": 793
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Bacteria", 
+    "children": [
+      {
+        "name": "2", 
+        "children": [
+          {
+            "name": "0", 
+            "size": 794
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Root", 
+    "children": [
+      {
+        "name": "0", 
+        "children": [
+          {
+            "name": "-1", 
+            "size": 795
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,796 @@
+Taxonomy name,TaxID,Parent TaxID,Value
+Firmicutes ,1239,2,1
+Bacilli ,91061,1239,2
+Proteobacteria ,1224,2,3
+Lactobacillales ,186826,91061,4
+Actinobacteria ,1760,201174,5
+Actinobacteria ,201174,2,6
+Alphaproteobacteria ,28211,1224,7
+Streptococcaceae ,1300,186826,8
+Streptococcus ,1301,1300,9
+Bacteroidetes/Chlorobi group ,68336,2,10
+Bacteroidetes ,976,68336,11
+Actinobacteridae ,85003,1760,12
+Actinomycetales ,2037,85003,13
+Lactobacillaceae ,33958,186826,14
+Bacillales ,1385,91061,15
+Betaproteobacteria ,28216,1224,16
+Lactobacillus ,1578,33958,17
+Gammaproteobacteria ,1236,1224,18
+Cyanobacteria ,1117,2,19
+Staphylococcaceae ,90964,1385,20
+Micrococcineae ,85006,2037,21
+Staphylococcus ,1279,90964,22
+Rhizobiales ,356,28211,23
+Lactobacillus delbrueckii ,1584,1578,24
+Pseudomonadales ,72274,1236,25
+Clostridia ,186801,1239,26
+Corynebacterineae ,85007,2037,27
+Clostridiales ,186802,186801,28
+environmental samples ,48504,1117,29
+uncultured cyanobacterium ,1211,48504,30
+Moraxellaceae ,468,72274,31
+Leuconostocaceae ,81850,186826,32
+Flavobacteriia ,117743,976,33
+Burkholderiales ,80840,28216,34
+Micrococcaceae ,1268,85006,35
+Flavobacteriales ,200644,117743,36
+Deinococcus-Thermus,1297,2,37
+Carnobacteriaceae ,186828,186826,38
+Flavobacteriaceae ,49546,200644,39
+Deinococci ,188787,1297,40
+Nocardiaceae ,85025,85007,41
+Rhodococcus ,1827,85025,42
+Methylobacteriaceae ,119045,356,43
+Leuconostoc ,1243,81850,44
+Carnobacterium ,2747,186828,45
+Bacteroidia ,200643,976,46
+Bacteroidales ,171549,200643,47
+Fusobacteria ,32066,2,48
+Methylobacterium ,407,119045,49
+Planctomycetes ,203682,2,50
+Pseudomonadaceae ,135621,72274,51
+Bacillaceae ,186817,1385,52
+Planctomycetia ,203683,203682,53
+Aerococcaceae ,186827,186826,54
+Pseudomonas ,286,135621,55
+Aerococcus ,1375,186827,56
+Acinetobacter ,469,468,57
+Paenibacillaceae ,186822,1385,58
+Deinococcales ,118964,188787,59
+Bacillus ,1386,186817,60
+Planctomycetales ,112,203683,61
+Paenibacillus ,44249,186822,62
+Rhizobiaceae ,82115,356,63
+Bradyrhizobiaceae ,41294,356,64
+Burkholderiaceae ,119060,80840,65
+Chloroflexi ,200795,2,66
+Psychrobacter ,497,468,67
+Clostridiaceae ,31979,186802,68
+Microbacteriaceae ,85023,85006,69
+Sphingomonadales ,204457,28211,70
+Micrococcus ,1269,1268,71
+Clostridium ,1485,31979,72
+environmental samples ,35766,1760,73
+delta/epsilon subdivisions ,68525,1224,74
+Lactobacillus casei group ,655183,1578,75
+uncultured actinobacterium ,152507,35766,76
+Corynebacteriaceae ,1653,85007,77
+Lactobacillus acidophilus ,1579,1578,78
+Corynebacterium ,1716,1653,79
+Deltaproteobacteria ,28221,68525,80
+Sphingomonadaceae ,41297,204457,81
+Prevotellaceae ,171552,171549,82
+Rhodospirillales ,204441,28211,83
+Acetobacteraceae ,433,204441,84
+Fusobacteriales ,203491,203490,85
+Fusobacteriia ,203490,32066,86
+Negativicutes ,909932,1239,87
+Selenomonadales ,909929,909932,88
+Veillonellaceae ,31977,909929,89
+Cytophagales ,768507,768503,90
+Cytophagia ,768503,976,91
+Rhodobacterales ,204455,28211,92
+Lactococcus ,1357,1300,93
+Propionibacterineae ,85009,2037,94
+Rhodobacteraceae ,31989,204455,95
+Cytophagaceae ,89373,768507,96
+Ralstonia ,48736,119060,97
+Bifidobacteriales ,85004,85003,98
+Bifidobacteriaceae ,31953,85004,99
+Kocuria ,57493,1268,100
+Prevotella ,838,171552,101
+Planctomycetaceae ,126,112,102
+environmental samples ,129707,1279,103
+Capnocytophaga ,1016,49546,104
+Chryseobacterium ,59732,49546,105
+Actinomycetaceae ,2049,85005,106
+Actinomycineae ,85005,2037,107
+Deinococcaceae ,183710,118964,108
+uncultured Planctomycetaceae bacterium ,100233,69409,109
+environmental samples ,69409,126,110
+Mycobacteriaceae ,1762,85007,111
+Actinomyces ,1654,2049,112
+Mycobacterium ,1763,1762,113
+Clostridiales incertae sedis ,538999,186802,114
+Lactobacillus rossiae ,231049,1578,115
+Chlamydiae/Verrucomicrobia group ,51290,2,116
+Clostridiales Family XI. Incertae Sedis ,543310,538999,117
+Lachnospiraceae ,186803,186802,118
+uncultured Staphylococcus sp. ,189668,129707,119
+uncultured Lactobacillus sp. ,153152,134232,120
+environmental samples ,134232,1578,121
+Sphingomonas ,13687,41297,122
+Bacillales incertae sedis ,539002,1385,123
+environmental samples ,50742,976,124
+uncultured Bacteroidetes bacterium ,152509,50742,125
+Frankineae ,85013,2037,126
+Deinococcus ,1298,183710,127
+Paracoccus ,265,31989,128
+uncultured Deinococcales bacterium ,310703,310702,129
+environmental samples ,310702,118964,130
+Weissella ,46255,81850,131
+Neisseriales ,206351,28216,132
+Geodermatophilaceae ,85030,85013,133
+Fibrobacteres/Acidobacteria group ,131550,2,134
+Leptotrichiaceae ,1129771,203491,135
+Pasteurellales ,135625,1236,136
+Bifidobacterium ,1678,31953,137
+Acidobacteria ,57723,131550,138
+Verrucomicrobia ,74201,51290,139
+Roseomonas ,125216,433,140
+Leptotrichia ,32067,1129771,141
+environmental samples ,47925,28211,142
+Enterococcaceae ,81852,186826,143
+Pasteurellaceae ,712,135625,144
+Bacteroidaceae ,815,171549,145
+Enterobacteriales ,91347,1236,146
+uncultured alpha proteobacterium ,91750,47925,147
+Oxalobacteraceae ,75682,80840,148
+Enterobacteriaceae ,543,91347,149
+Neisseriaceae ,481,206351,150
+Propionibacteriaceae ,31957,85009,151
+Lactobacillus delbrueckii subsp. bulgaricus ,1585,1584,152
+Sphingobacteriia ,117747,976,153
+Microbacterium ,33882,85023,154
+Sphingobacteriales ,200666,117747,155
+Brevibacteriaceae ,85019,85006,156
+Intrasporangiaceae ,85021,85006,157
+Veillonella ,29465,31977,158
+Brevibacterium ,1696,85019,159
+Porphyromonadaceae ,171551,171549,160
+Leuconostoc carnosum ,1252,1243,161
+Sphingobacteriaceae ,84566,200666,162
+Dermabacteraceae ,85020,85006,163
+environmental samples ,59619,1485,164
+Brachybacterium ,43668,85020,165
+uncultured Clostridium sp. ,59620,59619,166
+Pseudoclavibacter ,255204,85023,167
+Bacteroides ,816,815,168
+Enterococcus ,1350,81852,169
+Xanthomonadales ,135614,1236,170
+environmental samples ,47936,1224,171
+uncultured proteobacterium ,153809,47936,172
+Exiguobacterium ,33986,539742,173
+Bacillales Family XII. Incertae Sedis ,539742,539002,174
+Nocardioidaceae ,85015,85009,175
+Rickettsiales ,766,28211,176
+environmental samples ,83426,1301,177
+Bacillus cereus group ,86661,1386,178
+Dietziaceae ,85029,85007,179
+Dietzia ,37914,85029,180
+Selenomonas ,970,31977,181
+Bacillus cereus ,1396,86661,182
+Xanthomonadaceae ,32033,135614,183
+environmental samples ,75661,469,184
+uncultured Streptococcus sp. ,83427,83426,185
+environmental samples ,58229,200795,186
+environmental samples ,40903,112,187
+uncultured Chloroflexi bacterium ,166587,58229,188
+environmental samples ,126514,497,189
+uncultured Psychrobacter sp. ,259303,126514,190
+Gemella ,1378,539738,191
+Bacillales Family XI. Incertae Sedis ,539738,539002,192
+Anaplasmataceae ,942,766,193
+Coriobacteriales ,84999,84998,194
+Coriobacteridae ,84998,1760,195
+Wolbachieae ,952,942,196
+Wolbachia ,953,952,197
+Pseudonocardiaceae ,2070,85010,198
+Pseudonocardineae ,85010,2037,199
+Candidatus Liberibacter ,34019,82115,200
+uncultured Candidatus Liberibacter sp. ,574027,574026,201
+environmental samples ,574026,34019,202
+Arthrobacter ,1663,1268,203
+Phyllobacteriaceae ,69277,356,204
+Gordoniaceae ,85026,85007,205
+Staphylococcus hominis ,1290,1279,206
+Comamonadaceae ,80864,80840,207
+Gordonia ,2053,85026,208
+Modestobacter ,88138,85030,209
+Coriobacteriaceae ,84107,255727,210
+Coriobacterineae ,255727,84999,211
+environmental samples ,62104,286,212
+Rhizobium/Agrobacterium group ,227290,82115,213
+Gemmatimonadetes ,142182,2,214
+uncultured Pseudomonas sp. ,114707,62104,215
+Sphingobacterium ,28453,84566,216
+Nostocales ,1161,1117,217
+Bradyrhizobium ,374,41294,218
+Porphyromonas ,836,171551,219
+Anaerococcus ,165779,1570339,220
+Planococcaceae ,186818,1385,221
+Haemophilus ,724,712,222
+Neisseria ,482,481,223
+Propionibacterium ,1743,31957,224
+Fusobacteriaceae ,203492,203491,225
+Caulobacterales ,204458,28211,226
+environmental samples ,57727,57723,227
+Gardnerella ,2701,31953,228
+Pleurocapsales ,52604,1117,229
+uncultured Acidobacteria bacterium ,171953,57727,230
+Chroococcidiopsis ,54298,52604,231
+environmental samples ,47928,1239,232
+environmental samples ,95759,89373,233
+Finegoldia ,150022,1570339,234
+Epsilonproteobacteria ,29547,68525,235
+uncultured Flexibacteraceae bacterium ,239735,95759,236
+Thermales ,68933,188787,237
+Phyllobacterium ,28100,69277,238
+Caulobacteraceae ,76892,204458,239
+uncultured Firmicutes bacterium ,344338,47928,240
+Myxococcales ,29,28221,241
+uncultured Ralstonia sp. ,114715,54522,242
+environmental samples ,54522,48736,243
+Leptotrichia wadei ,157687,32067,244
+Thermaceae ,188786,68933,245
+Oscillatoriophycideae ,1301283,1117,246
+Streptococcus mitis ,28037,1301,247
+Fusobacterium ,848,203492,248
+Flavobacterium ,237,49546,249
+Nostocaceae ,1162,1161,250
+Thermus ,270,188786,251
+Campylobacterales ,213849,29547,252
+uncultured planctomycete ,120965,40903,253
+uncultured Acinetobacter sp. ,165433,75661,254
+environmental samples ,34033,28221,255
+Campylobacteraceae ,72294,213849,256
+uncultured delta proteobacterium ,34034,34033,257
+Nocardioides ,1839,85015,258
+Xanthobacteraceae ,335928,356,259
+environmental samples ,47926,28216,260
+Campylobacter ,194,72294,261
+Modestobacter multiseptatus ,88139,88138,262
+uncultured beta proteobacterium ,86027,47926,263
+Hymenobacter ,89966,89373,264
+Moraxella ,475,468,265
+environmental samples ,50423,1236,266
+uncultured Rhizobiales bacterium ,208549,57702,267
+environmental samples ,57702,356,268
+Pediococcus ,1253,33958,269
+uncultured Methylobacterium sp. ,157278,129670,270
+environmental samples ,129670,407,271
+uncultured gamma proteobacterium ,86473,50423,272
+Lactococcus lactis ,1358,1357,273
+Chlamydiia ,204429,204428,274
+Brevundimonas ,41275,76892,275
+Stenotrophomonas ,40323,32033,276
+Saccharopolyspora ,1835,2070,277
+Oscillatoriales ,1150,1301283,278
+Oceanospirillales ,135619,1236,279
+Friedmanniella ,53387,85015,280
+Vagococcus ,2737,81852,281
+Moraxella ,46225,475,282
+environmental samples ,142185,142182,283
+uncultured Gemmatimonadetes bacterium ,203437,142185,284
+Halomonadaceae ,28256,135619,285
+Rahnella ,34037,543,286
+Peptoniphilus ,162289,1570339,287
+Thermus thermophilus ,274,270,288
+Erysipelotrichia ,526524,1239,289
+Erysipelotrichales ,526525,526524,290
+Erysipelotrichaceae ,128827,526525,291
+Dermacoccaceae ,145357,85006,292
+uncultured Lachnospiraceae bacterium ,297314,189703,293
+environmental samples ,189703,186803,294
+Rhodocyclales ,206389,28216,295
+Rhodocyclaceae ,75787,206389,296
+uncultured Parabacteroides sp. ,512312,512311,297
+Cellulomonadaceae ,85016,85006,298
+Streptococcus didelphis ,102886,1301,299
+Rothia ,32207,1268,300
+Leptotrichia sp. oral taxon 498 ,712368,32067,301
+Aurantimonadaceae ,255475,356,302
+uncultured Clostridiales bacterium ,172733,50559,303
+environmental samples ,50559,186802,304
+Hyphomicrobiaceae ,45401,356,305
+uncultured Bacilli bacterium ,224209,224208,306
+environmental samples ,224208,91061,307
+Robinsoniella peoriensis ,180332,588605,308
+Rathayibacter ,33886,85023,309
+Agrococcus ,46352,85023,310
+Pseudonocardia ,1847,2070,311
+uncultured Sphingomonas sp. ,158754,114554,312
+environmental samples ,114554,13687,313
+Archaea ,2157,131567,314
+Acetobacter ,434,433,315
+environmental samples ,139043,816,316
+uncultured Propionibacterium sp. ,218066,135077,317
+environmental samples ,135077,1743,318
+Leuconostoc mesenteroides ,1245,1243,319
+unclassified Rhizobiales ,119042,356,320
+unclassified Rhizobiales (miscellaneous) ,41292,119042,321
+Rhodopseudomonas ,1073,41294,322
+environmental samples ,65119,1386,323
+Spirosoma ,107,89373,324
+uncultured Bacillus sp. ,83428,65119,325
+environmental samples ,56769,2037,326
+Alcaligenaceae ,506,80840,327
+Cellulomonas ,1707,85016,328
+uncultured Actinomycetales bacterium ,239730,56769,329
+Ornithinimicrobium ,125287,85021,330
+uncultured Planctomycetales bacterium ,100371,40903,331
+Streptococcus sp. oral taxon C65 ,712645,1301,332
+Streptococcus salivarius ,1304,1301,333
+Dermacoccus ,57495,145357,334
+uncultured Chryseobacterium sp. ,259322,259321,335
+environmental samples ,259321,59732,336
+Methylobacterium adhaesivum ,333297,407,337
+Pseudomonas fluorescens group ,136843,286,338
+Anabaena ,1163,1162,339
+Spirochaetia ,203692,203691,340
+Spirochaetes ,203691,2,341
+Gemella haemolysans ,1379,1378,342
+Sorangiineae ,80812,29,343
+Lactobacillus sakei ,1599,1578,344
+Rhodospirillaceae ,41295,204441,345
+Streptomycineae ,85011,2037,346
+Pedobacter ,84567,84566,347
+Alteromonadales ,135622,1236,348
+Streptomycetaceae ,2062,85011,349
+Peptococcaceae ,186807,186802,350
+environmental samples ,74202,74201,351
+Spirochaetales ,136,203692,352
+Streptococcus thermophilus ,1308,1301,353
+Dyadobacter ,120831,89373,354
+Streptomyces ,1883,2062,355
+environmental samples ,89277,1357,356
+Janibacter ,53457,85021,357
+Peptostreptococcaceae ,186804,186802,358
+uncultured Bacteroidales bacterium ,194843,189693,359
+environmental samples ,189693,171549,360
+Arcanobacterium ,28263,2049,361
+uncultured Verrucomicrobia bacterium ,156588,74202,362
+uncultured Vagococcus sp. ,189676,189675,363
+Eubacteriaceae ,186806,186802,364
+Spirochaetaceae ,137,136,365
+Polyangiaceae ,49,80812,366
+Acidobacteriales ,204433,204432,367
+Acidobacteriia ,204432,57723,368
+Streptococcus sanguinis ,1305,1301,369
+Massilia ,149698,75682,370
+Blautia ,572511,186803,371
+unclassified Burkholderiales ,119065,80840,372
+Acidobacteriaceae ,204434,204433,373
+Dechloromonas ,73029,75787,374
+Rhizobium ,379,227290,375
+Comamonas ,283,80864,376
+uncultured Acidobacteriaceae bacterium ,194844,112075,377
+environmental samples ,112075,204434,378
+Burkholderiales Genera incertae sedis ,224471,119065,379
+Eubacterium ,1730,186806,380
+Pontibacter ,323449,89373,381
+Microvirgula ,57479,1499392,382
+Rubrobacteridae ,84995,1760,383
+Chroococcales ,1118,1301283,384
+Streptosporangineae ,85012,2037,385
+Leifsonia ,110932,85023,386
+unclassified Erysipelotrichaceae ,433334,128827,387
+Pantoea ,53335,543,388
+Verrucomicrobiae ,203494,74201,389
+Agrobacterium ,357,227290,390
+Blastococcus ,38501,85030,391
+uncultured Lactobacillaceae bacterium ,218288,218287,392
+environmental samples ,218287,33958,393
+uncultured Bacteroides sp. ,162156,139043,394
+Verrucomicrobiales ,48461,203494,395
+Xanthomonas ,338,32033,396
+uncultured Flavobacteriaceae bacterium ,165436,117745,397
+environmental samples ,117745,49546,398
+Pseudomonas fluorescens ,294,136843,399
+Burkholderia ,32008,119060,400
+environmental samples ,84372,1730,401
+unclassified Lachnospiraceae ,186928,186803,402
+uncultured Dechloromonas sp. ,171719,171718,403
+environmental samples ,171718,73029,404
+Verrucomicrobiaceae ,203557,48461,405
+uncultured Eubacterium sp. ,165185,84372,406
+Euryarchaeota ,28890,2157,407
+[Eubacterium] dolichum ,31971,433334,408
+Afipia ,1033,41294,409
+Caulobacter ,75,76892,410
+uncultured Acetobacteraceae bacterium ,169975,134716,411
+environmental samples ,134716,433,412
+Janthinobacterium ,29580,75682,413
+uncultured Comamonadaceae bacterium ,165437,128082,414
+environmental samples ,128082,80864,415
+Armatimonadetes ,67819,2,416
+Legionellales ,118969,1236,417
+Ruminococcaceae ,541000,186802,418
+environmental samples ,99283,67819,419
+uncultured Bradyrhizobium sp. ,199684,129633,420
+environmental samples ,129633,374,421
+uncultured Armatimonadetes bacterium ,157466,99283,422
+unclassified Alphaproteobacteria ,82117,28211,423
+Jeotgalicoccus ,227979,90964,424
+Acidovorax ,12916,80864,425
+Lactobacillus salivarius ,1624,1578,426
+uncultured Oscillatoriales cyanobacterium ,156210,156209,427
+environmental samples ,156209,1150,428
+environmental samples ,129591,1654,429
+Pseudomonas putida group ,136845,286,430
+uncultured Carnobacterium sp. ,259013,259012,431
+environmental samples ,259012,2747,432
+unclassified Peptostreptococcaceae ,200630,186804,433
+unclassified Alphaproteobacteria (miscellaneous) ,33807,82117,434
+Propionibacterium acnes ,1747,1743,435
+Promicromonosporaceae ,85017,85006,436
+environmental samples ,88601,1716,437
+uncultured Actinomyces sp. ,249061,129591,438
+Lactococcus lactis subsp. lactis ,1360,1358,439
+Thermomicrobia ,189775,200795,440
+Solirubrobacterales ,588673,84995,441
+uncultured Corynebacterium sp. ,159447,88601,442
+uncultured Deinococcus sp. ,158789,158788,443
+environmental samples ,158788,1298,444
+Tenericutes ,544448,2,445
+Mollicutes ,31969,544448,446
+uncultured Moraxella sp. ,263769,263768,447
+Alteromonadaceae ,72275,135622,448
+Lactobacillus brevis ,1580,1578,449
+Pediococcus damnosus ,51663,1253,450
+uncultured Anaerococcus sp. ,293428,293427,451
+unclassified Clostridiales ,186813,186802,452
+uncultured Burkholderiales bacterium ,208544,208545,453
+environmental samples ,208545,80840,454
+uncultured Clostridia bacterium ,244328,218638,455
+environmental samples ,218638,186801,456
+uncultured Bacillales bacterium ,157472,50609,457
+environmental samples ,50609,1385,458
+Rhodococcus erythropolis ,1833,1827,459
+unclassified Clostridiales (miscellaneous) ,39779,186813,460
+Bacillus pumilus ,1408,1386,461
+Aeromonadales ,135624,1236,462
+environmental samples ,57697,1300,463
+uncultured Streptococcaceae bacterium ,208546,57697,464
+Micromonosporaceae ,28056,85008,465
+Micromonosporineae ,85008,2037,466
+uncultured Hymenobacter sp. ,170016,170015,467
+environmental samples ,170015,89966,468
+Pseudomonas aeruginosa group ,136841,286,469
+Pseudomonas putida ,303,136845,470
+uncultured Roseomonas sp. ,310606,310605,471
+environmental samples ,310605,125216,472
+uncultured Cyanothece sp. ,259951,259950,473
+Cyanothece ,43988,1118,474
+environmental samples ,259950,43988,475
+Kineosporiaceae ,83778,622452,476
+Kineosporiineae ,622452,2037,477
+unclassified Gammaproteobacteria ,118884,1236,478
+environmental samples ,129685,482,479
+Leptolyngbya ,47251,1150,480
+uncultured Neisseria sp. ,237778,129685,481
+Bacillus subtilis group ,653685,1386,482
+environmental samples ,87828,29547,483
+Halomonas ,2745,28256,484
+unclassified Gammaproteobacteria (miscellaneous) ,33811,118884,485
+uncultured epsilon proteobacterium ,120858,87828,486
+Aeromonadaceae ,84642,135624,487
+Microlunatus ,29404,31957,488
+Erythrobacteraceae ,335929,204457,489
+Pelomonas ,335058,80864,490
+uncultured Planctomycetia bacterium ,411917,411916,491
+Helicobacteraceae ,72293,213849,492
+Chitinophagaceae ,563835,200666,493
+uncultured Janthinobacterium sp. ,242828,88215,494
+environmental samples ,88215,29580,495
+unclassified Proteobacteria ,32045,1224,496
+uncultured Pseudomonadales bacterium ,332614,97500,497
+environmental samples ,97500,72274,498
+Lactobacillus paracasei ,1597,655183,499
+environmental samples ,89279,237,500
+Riemerella ,34084,49546,501
+Helicobacter ,209,72293,502
+uncultured Lactococcus sp. ,167973,89277,503
+unclassified pseudomonads ,45359,32045,504
+uncultured Cyanobacterium sp. ,751952,751951,505
+Synechococcus ,1129,1118,506
+Phormidium ,1198,1150,507
+Arsenicicoccus ,267408,85021,508
+unclassified Betaproteobacteria ,119066,28216,509
+uncultured Fusobacteria bacterium ,174329,135062,510
+environmental samples ,135062,32066,511
+Dechloromonas sp. HZ ,188737,73029,512
+Vibrionaceae ,641,135623,513
+Vibrionales ,135623,1236,514
+Leuconostoc gasicomitatum ,115778,1243,515
+Enterococcus faecalis ,1351,1350,516
+Lactobacillus paracasei subsp. paracasei ,47714,1597,517
+Synergistetes ,508458,2,518
+uncultured Burkholderia sp. ,188058,77118,519
+environmental samples ,77118,32008,520
+Vibrio ,662,641,521
+environmental samples ,135095,29465,522
+Lactobacillus casei ,1582,655183,523
+uncultured Hyphomicrobiaceae bacterium ,218023,218021,524
+Pseudomonas plecoglossicida ,70775,136845,525
+Pseudomonas stutzeri group ,136846,286,526
+uncultured Pelomonas sp. ,360909,360908,527
+uncultured Chlorobi bacterium ,156405,51233,528
+Mycobacterium chelonae group ,670516,1763,529
+Pseudomonas aeruginosa ,287,136841,530
+uncultured Brevundimonas sp. ,213418,114552,531
+uncultured Oxalobacteraceae bacterium ,253871,321929,532
+environmental samples ,321929,75682,533
+Rhodobacter ,1060,31989,534
+environmental samples ,134213,1016,535
+uncultured Carnobacteriaceae bacterium ,349922,349921,536
+environmental samples ,349921,186828,537
+uncultured Rhodococcus sp. ,194249,129699,538
+environmental samples ,129699,1827,539
+uncultured Mycobacterium sp. ,171292,97818,540
+environmental samples ,97818,1763,541
+Candidatus Vidania fulgoroideae ,881286,1191175,542
+uncultured Enterococcus sp. ,167972,167971,543
+environmental samples ,167971,1350,544
+Micrococcus luteus ,1270,1269,545
+uncultured Myxococcales bacterium ,253830,65121,546
+environmental samples ,65121,29,547
+uncultured Pseudomonadaceae bacterium ,220135,220134,548
+environmental samples ,220134,135621,549
+uncultured Thermomicrobium sp. ,158795,158794,550
+Thermomicrobiaceae ,189777,189776,551
+Thermomicrobiales ,189776,189775,552
+Thermomicrobium ,499,189777,553
+environmental samples ,158794,499,554
+uncultured Massilia sp. ,169973,169972,555
+Bacillus subtilis ,1423,653685,556
+Pseudomonas sp. ,306,45359,557
+uncultured Microbacterium sp. ,191216,163527,558
+unclassified Cyanobacteria ,34079,1117,559
+Nitrospirae ,40117,2,560
+Nitrosomonadales ,32003,28216,561
+Nitrosomonadaceae ,206379,32003,562
+Staphylococcus aureus ,1280,1279,563
+environmental samples ,84374,838,564
+Staphylococcus epidermidis ,1282,1279,565
+uncultured Sphingomonadaceae bacterium ,169976,135644,566
+environmental samples ,135644,41297,567
+uncultured Rubrobacteridae bacterium ,211429,117608,568
+unclassified Actinobacteria ,52018,1760,569
+uncultured Caulobacter sp. ,158749,131546,570
+environmental samples ,131546,75,571
+Paracraurococcus ,77674,433,572
+uncultured Acidovorax sp. ,158751,158750,573
+environmental samples ,447825,508458,574
+unclassified Actinobacteria (miscellaneous) ,78537,52018,575
+environmental samples ,117769,200666,576
+Streptococcus mutans ,1309,1301,577
+Oceanospirillaceae ,135620,135619,578
+Pseudomonas sp. VS05_13 ,670996,286,579
+Carnobacteriaceae bacterium KVD-6-1959,384173,268966,580
+unclassified Carnobacteriaceae ,268966,186828,581
+uncultured Lactobacillales bacterium ,339167,339166,582
+environmental samples ,339166,186826,583
+Afipia genosp. 12 ,57044,1033,584
+Acinetobacter calcoaceticus/baumannii complex ,909768,469,585
+Aerococcus viridans ,1377,1375,586
+Pseudomonas syringae group ,136849,286,587
+Pseudoxanthomonas ,83618,32033,588
+Bacillus thuringiensis ,1428,86661,589
+uncultured Flavobacterium sp. ,165435,89279,590
+uncultured Paracraurococcus sp. ,338954,338953,591
+Marmoricola ,86795,85015,592
+uncultured Agrobacterium sp. ,157277,67768,593
+uncultured Mollicutes bacterium ,220137,220136,594
+environmental samples ,220136,31969,595
+uncultured Novosphingobium sp. ,292277,292276,596
+unclassified Staphylococcaceae ,111016,90964,597
+uncultured Porphyromonadaceae bacterium ,348578,348577,598
+Kocuria rosea ,1275,57493,599
+Pseudoalteromonadaceae ,267888,135622,600
+Pseudoalteromonas ,53246,267888,601
+uncultured Sphingobacteria bacterium ,246143,246142,602
+Lactobacillus delbrueckii subsp. lactis ,29397,1584,603
+uncultured Sphingobacteriales bacterium ,212696,117769,604
+Geodermatophilus ,1860,85030,605
+uncultured Nocardioides sp. ,198441,198440,606
+environmental samples ,198440,1839,607
+Duganella ,75654,75682,608
+uncultured Clostridiaceae bacterium ,195049,195047,609
+Pseudomonas corrugata ,47879,136843,610
+uncultured Pedobacter sp. ,246139,163530,611
+unclassified Cytophagaceae ,94253,89373,612
+Leptothrix ,88,224471,613
+unclassified Betaproteobacteria (miscellaneous) ,33809,119066,614
+Polaromonas ,52972,80864,615
+Pseudomonas veronii ,76761,136843,616
+uncultured Nitrospirae bacterium ,170969,67798,617
+Sphaerotilus ,34102,224471,618
+uncultured Bifidobacterium sp. ,165187,135024,619
+environmental samples ,135024,1678,620
+uncultured Brevibacterium sp. ,189678,189677,621
+environmental samples ,189677,1696,622
+uncultured Synechococcus sp. ,154535,127785,623
+environmental samples ,127785,1129,624
+uncultured Propionibacteriaceae bacterium ,257457,257456,625
+environmental samples ,257456,31957,626
+uncultured Moraxellaceae bacterium ,195042,75924,627
+[Clostridium] innocuum ,1522,1505663,628
+Pseudomonas stutzeri ,316,578833,629
+Pseudomonas stutzeri subgroup ,578833,136846,630
+uncultured Leuconostoc sp. ,173262,69948,631
+environmental samples ,69948,1243,632
+environmental samples ,135058,32067,633
+Mitsuaria ,65047,224471,634
+uncultured Sphingomonadales bacterium ,293405,293404,635
+environmental samples ,293404,204457,636
+Kocuria rhizophila ,72000,57493,637
+environmental samples ,97940,40323,638
+uncultured Ruminococcaceae bacterium ,541003,541002,639
+Knoellia ,136099,85021,640
+uncultured Fusobacterium sp. ,159267,127783,641
+Pseudomonas syringae ,317,251695,642
+Pseudomonas syringae group genomosp. 1 ,251695,136849,643
+uncultured Aeromonadaceae bacterium ,197504,197503,644
+Desulfuromonadales ,69541,28221,645
+uncultured Prevotella sp. ,159272,84374,646
+uncultured Paracoccus sp. ,189685,129688,647
+environmental samples ,129688,265,648
+Frankiaceae ,74712,85013,649
+Frankia ,1854,74712,650
+Thermoanaerobacterales ,68295,186801,651
+uncultured Flavobacteriia bacterium ,212695,80843,652
+uncultured Nostocales cyanobacterium ,183213,183212,653
+environmental samples ,183212,1161,654
+uncultured Roseobacter sp. ,114847,98187,655
+Pseudomonas citronellolis ,53408,136841,656
+Geobacteraceae ,213422,69541,657
+uncultured Veillonella sp. ,159268,135095,658
+Acinetobacter calcoaceticus ,471,909768,659
+environmental samples ,163536,88,660
+uncultured Friedmanniella sp. ,335381,335380,661
+uncultured Hydrogenophaga sp. ,199683,199682,662
+Hydrogenophaga ,47420,80864,663
+environmental samples ,199682,47420,664
+Acinetobacter baumannii ,470,909768,665
+uncultured Synergistetes bacterium ,447826,447825,666
+Dialister ,39948,31977,667
+uncultured Nitrosomonadaceae bacterium ,207829,47949,668
+environmental samples ,47949,206379,669
+uncultured Phyllobacterium sp. ,253813,75673,670
+uncultured Methylobacteriaceae bacterium ,238199,238198,671
+uncultured Veillonellaceae bacterium ,194923,135094,672
+environmental samples ,135094,31977,673
+uncultured Methylibium sp. ,381093,381092,674
+Methylibium ,316612,224471,675
+environmental samples ,381092,316612,676
+uncultured Rhizobium sp. ,155567,129696,677
+environmental samples ,129696,379,678
+uncultured Dyadobacter sp. ,443075,443074,679
+Wautersiella ,343873,49546,680
+uncultured Spirochaetes bacterium ,460511,460510,681
+Clostridium sardiniense ,29369,1485,682
+uncultured Rothia sp. ,316088,248710,683
+environmental samples ,248710,32207,684
+environmental samples ,75667,1378,685
+Bacteroides thetaiotaomicron ,818,816,686
+uncultured Staphylococcaceae bacterium ,370803,370802,687
+environmental samples ,370802,90964,688
+unclassified Moraxellaceae ,54393,468,689
+uncultured Geodermatophilus sp. ,332038,332037,690
+environmental samples ,332037,1860,691
+uncultured Kineosporia sp. ,211966,211965,692
+Pseudomonas synxantha ,47883,136843,693
+uncultured Capnocytophaga sp. ,159273,134213,694
+Leuconostoc citreum ,33964,1243,695
+uncultured Aquificae bacterium ,453415,453414,696
+Rhodococcus sp. 'Iso St 1' ,457085,1827,697
+uncultured Polaromonas sp. ,225016,140984,698
+environmental samples ,140984,52972,699
+Pseudoclavibacter helvolus ,255205,255204,700
+uncultured Caulobacterales bacterium ,395523,395522,701
+environmental samples ,395522,204458,702
+uncultured Rhodospirillales bacterium ,296830,296829,703
+uncultured Cellulomonas sp. ,189682,189681,704
+environmental samples ,189681,1707,705
+uncultured Aerococcus sp. ,189667,189666,706
+environmental samples ,189666,1375,707
+Lactococcus garvieae ,1363,1357,708
+[Clostridium] difficile ,1496,1481960,709
+uncultured Acidobacterium sp. ,114706,114705,710
+Bacillus megaterium ,1404,1386,711
+Ruminococcus ,1263,541000,712
+uncultured Geobacter sp. ,186741,65831,713
+Geobacter ,28231,213422,714
+environmental samples ,65831,28231,715
+uncultured Gemella sp. ,254352,75667,716
+uncultured Enterobacteriaceae bacterium ,218034,47938,717
+environmental samples ,47938,543,718
+uncultured Arthrobacter sp. ,114050,89306,719
+environmental samples ,89306,1663,720
+uncultured Propionibacterineae bacterium ,197514,197513,721
+environmental samples ,197513,85009,722
+uncultured Blastococcus sp. ,217144,231479,723
+environmental samples ,231479,38501,724
+Leuconostoc garlicum ,255248,1243,725
+uncultured Neisseriaceae bacterium ,208548,208547,726
+uncultured Rhodobacteraceae bacterium ,157276,58841,727
+Staphylococcus sp. enrichment culture clone S1_22 ,1185833,129707,728
+Weissella cibaria ,137591,46255,729
+uncultured Actinoplanes sp. ,412396,412395,730
+unclassified Streptomycetaceae ,234292,2062,731
+Streptomycetaceae bacterium C2 ,1109000,234292,732
+uncultured Methylobacter sp. ,153499,107642,733
+Methylococcales ,135618,1236,734
+Methylococcaceae ,403,135618,735
+Methylobacter ,429,403,736
+environmental samples ,107642,429,737
+unclassified Flavobacteriaceae ,61432,49546,738
+uncultured Selenomonas sp. ,159275,89312,739
+environmental samples ,89312,970,740
+uncultured Mycobacteriaceae bacterium ,257460,257459,741
+uncultured Bradyrhizobiaceae bacterium ,181009,95757,742
+environmental samples ,257459,1762,743
+environmental samples ,95757,41294,744
+uncultured Rhodospirillaceae bacterium ,352351,65115,745
+environmental samples ,65115,41295,746
+Desulfobacterales ,213118,28221,747
+uncultured Rhizobiaceae bacterium ,271151,130875,748
+environmental samples ,130875,82115,749
+uncultured Leifsonia sp. ,340359,340358,750
+uncultured Actinobacteridae bacterium ,197512,117712,751
+Tetrasphaera ,99479,85021,752
+Streptococcus sp. oral clone ASCB12 ,325789,83426,753
+Streptococcus equinus ,1335,1301,754
+Enterobacter ,547,543,755
+Candidatus Halomonas phosphatis ,1107859,2745,756
+uncultured Acidobacteriales bacterium ,190530,124728,757
+environmental samples ,124728,204433,758
+Microvirgula aerodenitrificans ,57480,57479,759
+Leuconostoc pseudomesenteroides ,33968,1243,760
+uncultured Prosthecobacter sp. ,522608,522607,761
+uncultured Desulforhabdus sp. ,543035,543034,762
+Syntrophobacterales ,213462,28221,763
+Syntrophobacteraceae ,213465,213462,764
+Desulforhabdus ,39840,213465,765
+environmental samples ,543034,39840,766
+uncultured Nitrobacter sp. ,155911,155910,767
+uncultured Haemophilus sp. ,237779,134229,768
+environmental samples ,134229,724,769
+Microbacterium oxydans ,82380,33882,770
+Staphylococcus auricularis ,29379,1279,771
+uncultured spirochete ,156406,56766,772
+environmental samples ,56766,136,773
+Thiotrichales ,72273,1236,774
+Francisellaceae ,34064,72273,775
+Francisella ,262,34064,776
+uncultured Paenibacillus sp. ,227322,131548,777
+environmental samples ,131548,44249,778
+uncultured Enterococcaceae bacterium ,447058,447057,779
+environmental samples ,447057,81852,780
+uncultured Ideonella sp. ,260759,260758,781
+Pseudomonas oleovorans/pseudoalcaligenes group ,1232139,136841,782
+uncultured Leptotrichia sp. ,159271,135058,783
+uncultured Bacillaceae bacterium ,197516,197515,784
+uncultured Sphaerotilus sp. ,474984,474983,785
+environmental samples ,197515,186817,786
+environmental samples ,474983,34102,787
+Chromatiales ,135613,1236,788
+uncultured Bacteroidetes/Chlorobi group bacterium ,169977,68346,789
+Helicobacter sp. 'liver 3' ,93982,209,790
+environmental samples ,68346,68336,791
+Moraxella osloensis ,34062,46225,792
+uncultured Streptomyces sp. ,174707,89304,793
+Bacteria,2,0,794
+Root,0,-1,795
