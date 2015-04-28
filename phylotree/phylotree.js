@@ -58,6 +58,18 @@ function update(source) {
       .attr("r", 1e-6)
       .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
+  nodeEnter.append("a")
+      .attr("xlink:href", function (d) { return "http://www.ncbi.nlm.nih.gov/taxonomy/?term=" + d.id; })
+      .append("rect")
+      .attr("class", "clickable")
+      .attr("y", -6)
+      .attr("x", function (d) { return d.children || d._children ? -60 : 10; })
+      .attr("width", 50) //2*4.5)
+      .attr("height", 12)
+      .style("fill", "lightsteelblue")
+      .style("fill-opacity", .3);        // set to 1e-6 to hide          
+      
+
   nodeEnter.append("text")
       .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
       .attr("dy", ".35em")
